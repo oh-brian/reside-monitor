@@ -44,6 +44,7 @@
     "2072 Anthony Ave - Apt 4J - $3037.47 -",
     "2072 Anthony Ave - Apt 6I - $3037.47 -",
     "2140 Matthews Ave - Apt 4A - $2941.02 -",
+    "2180 Walton Ave - Apt 7J - $3128 -",
     "2180 Walton Avenue - Apt 4C - $3128 -",
     "2180 Walton Avenue - Apt. 10D - Apt 10B - $3128 -",
     "230 w 150 St - Apt 4F - $2351.45 -",
@@ -142,6 +143,7 @@
     "2072 Anthony Ave - Apt 4J - $3037.47 -": "rec3mMbZKu8pdpNCL",
     "2072 Anthony Ave - Apt 6I - $3037.47 -": "recqHoPOQboy3J40q",
     "2140 Matthews Ave - Apt 4A - $2941.02 -": "recoCiA3nWif6uMSG",
+    "2180 Walton Ave - Apt 7J - $3128 -": "rec4hTwcXPFNYFTeX",
     "2180 Walton Avenue - Apt 4C - $3128 -": "reczZeXLpx20TDBSu",
     "2180 Walton Avenue - Apt. 10D - Apt 10B - $3128 -": "reclm0Vov81VspkPi",
     "230 w 150 St - Apt 4F - $2351.45 -": "rec0XRsIJjXYKW9ZF",
@@ -198,5 +200,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-12T18:32:42.037149+00:00"
+  "updated_at": "2026-10-12T19:14:17.417099+00:00"
 }
