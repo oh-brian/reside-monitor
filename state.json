@@ -93,8 +93,7 @@
     "947 Sheridan Ave - Apt 1D - $3128 -",
     "947 Sheridan Ave. Apt. 3C - Apt 3C - $3221.84 -",
     "99-49 66th Ave - Apt 4C - $3290.11 -",
-    "Douglass Street Apartments - Apt 8L - $3495 -",
-    "Dutch House - 37-05 30th Street - Apt 319 - $2513.52 -"
+    "Douglass Street Apartments - Apt 8L - $3495 -"
   ],
   "project_record_ids": {
     "100 Belmont Place - Apt 4B - $1383.75 -": "reclHBaPxKBwDbnFW",
@@ -188,9 +187,8 @@
     "947 Sheridan Ave - Apt 1D - $3128 -": "recsPrCPAboZUyWj7",
     "947 Sheridan Ave. Apt. 3C - Apt 3C - $3221.84 -": "recdgxlD1ca2pnbqF",
     "99-49 66th Ave - Apt 4C - $3290.11 -": "recfzsBPRGV26NTAs",
-    "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC",
-    "Dutch House - 37-05 30th Street - Apt 319 - $2513.52 -": "recdb3IhqKG1bLhCM"
+    "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-12T13:25:00.706771+00:00"
+  "updated_at": "2026-10-12T13:26:04.223751+00:00"
 }
