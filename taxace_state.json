@@ -7,6 +7,12 @@
       "rent": "$3,741.18",
       "unit": "6C"
     },
+    "1309 findlay ave bronx ny||2b": {
+      "address": "1309 Findlay Ave, Bronx, NY",
+      "apply_url": "https://forms.clickup.com/14203750/f/dhev6-27893/3TDX1Z8SBLW8WMNCP3",
+      "rent": "$2,998.00",
+      "unit": "2B"
+    },
     "1429 longfellow ave bronx ny||2d": {
       "address": "1429 Longfellow Ave, Bronx, NY",
       "apply_url": "https://forms.clickup.com/14203750/f/dhev6-24453/9494Z1ZZD9FF9SVJUO",
@@ -78,12 +84,6 @@
       "apply_url": "https://forms.clickup.com/14203750/f/dhev6-23773/6F9DFDE4MFK690BXRA",
       "rent": "$3,035.00",
       "unit": "1B"
-    },
-    "2775 reservoir ave bronx ny||2c": {
-      "address": "2775 Reservoir Ave, Bronx, NY",
-      "apply_url": "https://forms.clickup.com/14203750/f/dhev6-26013/DLKK3VWNP7LBB2RNLD",
-      "rent": "$2,835.00",
-      "unit": "2C"
     },
     "2775 reservoir ave brooklyn ny||3d": {
       "address": "2775 Reservoir Ave, Brooklyn, NY",
@@ -200,5 +200,5 @@
       "unit": "7A"
     }
   },
-  "updated_at": "2026-09-25T16:09:42.138507+00:00"
+  "updated_at": "2026-10-12T16:11:23.741337+00:00"
 }
