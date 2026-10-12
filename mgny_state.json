@@ -132,29 +132,6 @@
       "units_count": 1,
       "url": "https://mgnyconsulting.com/listing/1700-jerome-avenue/"
     },
-    "https://mgnyconsulting.com/listing/188-11-hillside-avenue": {
-      "address": "188-11 Hillside Avenue 188-11 Hillside Avenue, Queens, NY 11423",
-      "income_range": "$98,366 - $176,410",
-      "tiers": {
-        "130%||studio||$2,693.00||1-2 people": {
-          "active": true,
-          "ami": "130%",
-          "annual_income": "$98,366 – $176,410",
-          "appearance_count": 2,
-          "first_seen": "2026-08-20T04:04:39.814757+00:00",
-          "household_size": "1-2 people",
-          "last_removed_at": "2026-09-28T18:50:24.129503+00:00",
-          "last_seen": "2026-09-28T18:59:25.843129+00:00",
-          "removal_count": 1,
-          "rent": "$2,693.00",
-          "unit_size": "Studio",
-          "units_available": 1
-        }
-      },
-      "title": "188-11 Hillside Avenue",
-      "units_count": 1,
-      "url": "https://mgnyconsulting.com/listing/188-11-hillside-avenue/"
-    },
     "https://mgnyconsulting.com/listing/2008-crotona-avenue": {
       "address": "2008 Crotona Avenue 2008 Crotona Avenue, Bronx, NY 10457",
       "income_range": "$85,852 - $238,160",
@@ -568,5 +545,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-12T18:23:48.681719+00:00"
+  "updated_at": "2026-10-12T19:15:44.787740+00:00"
 }
