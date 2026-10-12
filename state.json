@@ -68,6 +68,8 @@
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI",
     "378 East 165 Street - Apt 202 - $2778.13 -",
+    "3914 15th Ave - Apt 1 Br - $3300 -",
+    "3914 15th Ave - Apt 2 Br - $3400 -",
     "44-15 Colden Street - Apt 1S - $2593 -",
     "44-15 Colden Street - Apt 2E - $2593 -",
     "44-35 Colden Street - Apt 1L - $2816 -",
@@ -161,6 +163,8 @@
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -": "recFL0FQjAQbotYir",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI": "recxJ9qyCliLXanX8",
     "378 East 165 Street - Apt 202 - $2778.13 -": "recymYFzaYnDKIDmC",
+    "3914 15th Ave - Apt 1 Br - $3300 -": "recLSxJ19wRUZsX6n",
+    "3914 15th Ave - Apt 2 Br - $3400 -": "recLH0otaWwP6r8gw",
     "44-15 Colden Street - Apt 1S - $2593 -": "recGeGVaGAnY3Fki3",
     "44-15 Colden Street - Apt 2E - $2593 -": "recvxI4pVH2zTwCNI",
     "44-35 Colden Street - Apt 1L - $2816 -": "recL2Vo8m3xdi1REp",
@@ -188,5 +192,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-12T15:04:16.787937+00:00"
+  "updated_at": "2026-10-12T15:05:31.383517+00:00"
 }
