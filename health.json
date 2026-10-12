@@ -1,7 +1,7 @@
 {
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "failure_alert_sent": false,
-  "last_error": null,
-  "last_failure": "2026-10-09T23:01:16.594741+00:00",
+  "last_error": "RuntimeError: Could not find field label \"Project Applying For\".",
+  "last_failure": "2026-10-12T15:22:22.061486+00:00",
   "last_success": "2026-10-09T23:01:49.101073+00:00"
 }
