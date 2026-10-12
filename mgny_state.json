@@ -314,29 +314,6 @@
       "units_count": 5,
       "url": "https://mgnyconsulting.com/listing/445-gerard-avenue-apartments/"
     },
-    "https://mgnyconsulting.com/listing/50-varet-street-2": {
-      "address": "50 Varet Street 50 Varet Street, Brooklyn, NY 11206",
-      "income_range": "$77,139 - $176,410",
-      "tiers": {
-        "130%||studio||$2,049.86||1-2 people": {
-          "active": true,
-          "ami": "130%",
-          "annual_income": "$77,139 – $176,410",
-          "appearance_count": 1,
-          "first_seen": "2026-08-20T04:04:39.814757+00:00",
-          "household_size": "1-2 people",
-          "last_removed_at": null,
-          "last_seen": "2026-08-20T04:04:39.814757+00:00",
-          "removal_count": 0,
-          "rent": "$2,049.86",
-          "unit_size": "Studio",
-          "units_available": 1
-        }
-      },
-      "title": "50 Varet Street",
-      "units_count": 1,
-      "url": "https://mgnyconsulting.com/listing/50-varet-street-2/"
-    },
     "https://mgnyconsulting.com/listing/845-southern-boulevard": {
       "address": "845 Southern Boulevard 845 Southern Blvd, Bronx, NY 10459",
       "income_range": "$81,761 - $227,500",
@@ -591,5 +568,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-12T17:56:14.580427+00:00"
+  "updated_at": "2026-10-12T18:23:48.681719+00:00"
 }
