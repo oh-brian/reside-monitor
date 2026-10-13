@@ -84,7 +84,6 @@
     "45-15 Colden Street - Apt 1B - $2593 -",
     "45-15 Colden Street - Apt 1C - $2593 -",
     "510 East 148 - Apt 3B - $3164.7 -",
-    "63 Pitts Street - Apt 11A - $2877.54 -",
     "633 East 230th Street Apt. 7D - Apt 7D - $3835 -",
     "647 Sheffield Ave- Apt. 1A - Apt 1A - $2800.41 -",
     "65 Buchanan Place - Apt 3B-07 - $1928.65 -",
@@ -185,7 +184,6 @@
     "45-15 Colden Street - Apt 1B - $2593 -": "rec6i7x2t3sjIrNFi",
     "45-15 Colden Street - Apt 1C - $2593 -": "recAXAaUq2egNHVEg",
     "510 East 148 - Apt 3B - $3164.7 -": "reclYEK93BvQLvNrV",
-    "63 Pitts Street - Apt 11A - $2877.54 -": "recUQUSZK2oYDDXgU",
     "633 East 230th Street Apt. 7D - Apt 7D - $3835 -": "rec1mjyTZwgJKYMqh",
     "647 Sheffield Ave- Apt. 1A - Apt 1A - $2800.41 -": "recroF9t4eeGJVbOq",
     "65 Buchanan Place - Apt 3B-07 - $1928.65 -": "reclA8OEL0jx0e9Fk",
@@ -204,5 +202,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-13T15:38:21.389621+00:00"
+  "updated_at": "2026-10-13T15:45:15.986116+00:00"
 }
