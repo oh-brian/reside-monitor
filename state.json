@@ -37,6 +37,7 @@
     "180 W 166 - Apt 4B - $2554.4 -",
     "190 E 205 Street - Apt 5B - $3367 -",
     "1988 Anthony Ave - Apt 2A - $2798.41 -",
+    "1988 Anthony Ave - Apt 3D - $2710.33 -",
     "20 & 30 Halletts Point - Studios - Apt - $3261 -",
     "20 & 30 Halletts Point - Two 2 BRs - Apt - $3986 -",
     "2061 Crotona Ave - Apt 2C - $3237.42 -",
@@ -138,6 +139,7 @@
     "180 W 166 - Apt 4B - $2554.4 -": "reci6H09Khdhjz0bO",
     "190 E 205 Street - Apt 5B - $3367 -": "recjUNVmDQ4cQRU1e",
     "1988 Anthony Ave - Apt 2A - $2798.41 -": "reci5NoLFtD9rUQyH",
+    "1988 Anthony Ave - Apt 3D - $2710.33 -": "recxSwjYpNGXLeNBL",
     "20 & 30 Halletts Point - Studios - Apt - $3261 -": "recY1Y7wg2tY7S9MR",
     "20 & 30 Halletts Point - Two 2 BRs - Apt - $3986 -": "rec8QdL8gJOo0huZw",
     "2061 Crotona Ave - Apt 2C - $3237.42 -": "recl8wA3YDcWn44ag",
@@ -204,5 +206,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-13T16:23:59.453871+00:00"
+  "updated_at": "2026-10-13T18:10:37.235332+00:00"
 }
