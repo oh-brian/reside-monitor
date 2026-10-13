@@ -186,29 +186,6 @@
       "units_count": 2,
       "url": "https://mgnyconsulting.com/listing/27-15-astoria-boulevard/"
     },
-    "https://mgnyconsulting.com/listing/27-buchanan-place": {
-      "address": "27 Buchanan Place 27 Buchanan Pl, Bronx, NY 10453",
-      "income_range": "$73,759 - $198,510",
-      "tiers": {
-        "130%||1-bedroom||$1,877.29||1-3 people": {
-          "active": true,
-          "ami": "130%",
-          "annual_income": "$73,759 – $198,510",
-          "appearance_count": 1,
-          "first_seen": "2026-08-21T15:46:41.278823+00:00",
-          "household_size": "1-3 people",
-          "last_removed_at": null,
-          "last_seen": "2026-08-21T15:46:41.278823+00:00",
-          "removal_count": 0,
-          "rent": "$1,877.29",
-          "unit_size": "1-bedroom",
-          "units_available": 1
-        }
-      },
-      "title": "27 Buchanan Place",
-      "units_count": 1,
-      "url": "https://mgnyconsulting.com/listing/27-buchanan-place/"
-    },
     "https://mgnyconsulting.com/listing/27-east-198-street": {
       "address": null,
       "income_range": "$55,818 - $198,510",
@@ -545,5 +522,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-13T15:14:36.682678+00:00"
+  "updated_at": "2026-10-13T17:59:09.640468+00:00"
 }
