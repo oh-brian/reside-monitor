@@ -119,7 +119,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-09-29T12:46:29.015729+00:00",
       "last_removed_at": null,
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "30 KENT STREET, Brooklyn, NY, USA",
@@ -155,6 +155,31 @@
       "unit": "15L",
       "unit_size": "Studio"
     },
+    "509 third avenue||23c": {
+      "active": true,
+      "ami": "40%",
+      "appearance_count": 1,
+      "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
+      "first_seen": "2026-10-14T14:14:01.695499+00:00",
+      "last_removed_at": null,
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
+      "location": {
+        "borough": "Manhattan",
+        "display_name": "509 THIRD AVENUE, New York, NY, USA",
+        "lat": "40.74577",
+        "lon": "-73.97756",
+        "neighborhood": "Murray Hill",
+        "postcode": "10016"
+      },
+      "project": "509 Third Avenue",
+      "question_title": "The units below reflect 40% and 60% AMI rents:",
+      "raw": "509 Third Avenue Unit 23C (40% Studio)",
+      "removal_count": 0,
+      "source": "Settlement Housing Fund",
+      "source_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
+      "unit": "23C",
+      "unit_size": "Studio"
+    },
     "509 third avenue||8f": {
       "active": false,
       "ami": "130%",
@@ -187,7 +212,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-08-29T19:26:32.001669+00:00",
       "last_removed_at": "2026-09-03T15:40:11.147297+00:00",
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": {
         "borough": null,
         "display_name": "509, 3rd Avenue, City of Watervliet, Albany County, New York, 12189, United States",
@@ -212,7 +237,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-08-29T19:26:32.001669+00:00",
       "last_removed_at": null,
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": null,
       "project": "515 W 36th Street",
       "question_title": "The units below reflect 130% AMI AMI rents:",
@@ -248,7 +273,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-08-29T19:26:32.001669+00:00",
       "last_removed_at": null,
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": null,
       "project": "572 Eleventh Avenue",
       "question_title": "The units below reflect 130% AMI AMI rents:",
@@ -284,7 +309,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-08-29T19:26:32.001669+00:00",
       "last_removed_at": null,
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": null,
       "project": "7 Dey Street",
       "question_title": "The units below reflect 130% AMI AMI rents:",
@@ -320,7 +345,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-09-14T15:58:22.439959+00:00",
       "last_removed_at": null,
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": null,
       "project": "146 Pierrepont Street Unit 6D (40% Studio) - Mobility set-aside unit. Must meet Mobility preference.",
       "question_title": "The units below reflect 40% and 60% AMI rents:",
@@ -338,7 +363,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-09-14T16:02:56.580428+00:00",
       "last_removed_at": null,
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": null,
       "project": "280 West 24th Street Unit 2D (130% AMI 2-Bed) - Mobility set-aside unit. Must meet Mobility preference.",
       "question_title": "The units below reflect 130% AMI AMI rents:",
@@ -392,7 +417,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-09-14T16:02:14.678605+00:00",
       "last_removed_at": null,
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": null,
       "project": "280 West 24th Street Unit 5R (40% Studio) - Age Preference - Must be age 62 or over)",
       "question_title": "The units below reflect 40% and 60% AMI rents:",
@@ -410,7 +435,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-09-18T16:23:56.890638+00:00",
       "last_removed_at": null,
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "49th Road, Brooklyn, Kings County, New York, 11204, United States",
@@ -478,7 +503,7 @@
       "apply_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=16LZ_9BUgkmpOsX39EKwQ4y0VvZoZjhPj428CE41l_lUNjVJTk9ESks4MlEyU0lZTjlDQVJDTjVHWC4u",
       "first_seen": "2026-09-18T16:23:56.890638+00:00",
       "last_removed_at": null,
-      "last_seen": "2026-09-29T12:46:29.015729+00:00",
+      "last_seen": "2026-10-14T14:14:01.695499+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "Dominick Sabatino Bridge, 13th Avenue, Dyker Heights, Brooklyn, Kings County, New York, 11219, United States",
@@ -497,6 +522,6 @@
       "unit_size": null
     }
   },
-  "updated_at": "2026-09-29T12:46:29.015729+00:00",
+  "updated_at": "2026-10-14T14:14:01.695499+00:00",
   "version": 1
 }
