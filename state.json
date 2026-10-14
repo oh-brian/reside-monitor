@@ -95,6 +95,7 @@
     "679 Marcy Ave - Apt 5B - $2769 -",
     "765 East 214 - Apt. 302 - Apt 302 - $3036.6 -",
     "765 East 214 Street Apt. 703 - Apt 703 - $3019.9 -",
+    "855A Mother Gaston Blvd - Apt 2A - $3682.68 -",
     "86 West 174 St - Apt 3B - $3950.05 -",
     "864 49th Street - Apt D1 - $3544 -",
     "873 E 228th Street Apt. 1A - Apt 1A - $3697.97 -",
@@ -201,6 +202,7 @@
     "679 Marcy Ave - Apt 5B - $2769 -": "recL426kkiwmHHLQy",
     "765 East 214 - Apt. 302 - Apt 302 - $3036.6 -": "recqKUYrmQ9p5uIRm",
     "765 East 214 Street Apt. 703 - Apt 703 - $3019.9 -": "recDHccgkL8ARHZIb",
+    "855A Mother Gaston Blvd - Apt 2A - $3682.68 -": "recZiPbGtNl6HzL03",
     "86 West 174 St - Apt 3B - $3950.05 -": "recHvWbrCDaGRfD6U",
     "864 49th Street - Apt D1 - $3544 -": "recnKNPdrNNQcuiw8",
     "873 E 228th Street Apt. 1A - Apt 1A - $3697.97 -": "recmyVrGxLSYWlJKg",
@@ -214,5 +216,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-14T14:53:45.255906+00:00"
+  "updated_at": "2026-10-14T15:09:55.232495+00:00"
 }
