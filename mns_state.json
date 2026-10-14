@@ -6,7 +6,13 @@
       "rent": "$2,653.00",
       "unit": "4N",
       "url": "https://www.mns.com/details/240428/rental/morris+heights/bronx"
+    },
+    "336 e 18 st||cw": {
+      "address": "336 E 18 ST",
+      "rent": "$5,250.00",
+      "unit": "CW",
+      "url": "https://www.mns.com/details/241002/rental/gramercy+park/manhattan"
     }
   },
-  "updated_at": "2026-10-01T13:56:40.055610+00:00"
+  "updated_at": "2026-10-14T20:08:54.405623+00:00"
 }

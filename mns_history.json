@@ -11,7 +11,7 @@
       "first_seen": "2026-08-20T03:36:15.929478+00:00",
       "first_seen_source": "mns_history_migration",
       "last_removed_at": null,
-      "last_seen": "2026-10-01T13:56:40.055574+00:00",
+      "last_seen": "2026-10-14T20:08:53.036426+00:00",
       "location": null,
       "removal_count": 0,
       "rent": "$2,653.00",
@@ -96,6 +96,41 @@
       "unit_size": "2 Bedrooms",
       "url": "https://www.mns.com/details/240645/rental/downtown+brooklyn/brooklyn"
     },
+    "336 e 18 st||cw": {
+      "active": true,
+      "address": "336 E 18 ST",
+      "appearance_count": 1,
+      "bathrooms": "2",
+      "bedrooms": "2",
+      "details": {
+        "available_now": null,
+        "contact_phone": "718-222-0211",
+        "minimum_income": null,
+        "neighborhood": null,
+        "one_person_eligible": null,
+        "one_person_income_range": null,
+        "one_person_max_income": null
+      },
+      "first_seen": "2026-10-14T20:08:53.036426+00:00",
+      "first_seen_source": "observed",
+      "last_removed_at": null,
+      "last_seen": "2026-10-14T20:08:53.036426+00:00",
+      "location": {
+        "borough": "Manhattan",
+        "display_name": "336 EAST 18 STREET, New York, NY, USA",
+        "lat": "40.734002",
+        "lon": "-73.981665",
+        "neighborhood": "Gramercy",
+        "postcode": "10003"
+      },
+      "removal_count": 0,
+      "rent": "$5,250.00",
+      "source": "MNS",
+      "sqft": null,
+      "unit": "CW",
+      "unit_size": "2 Bedrooms",
+      "url": "https://www.mns.com/details/241002/rental/gramercy+park/manhattan"
+    },
     "65 dupont st||202": {
       "active": false,
       "address": "65 Dupont ST",
@@ -172,6 +207,6 @@
       "url": "https://www.mns.com/details/240766/rental/tribeca/manhattan"
     }
   },
-  "updated_at": "2026-10-01T13:56:40.056291+00:00",
+  "updated_at": "2026-10-14T20:08:54.406082+00:00",
   "version": 1
 }
