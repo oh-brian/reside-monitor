@@ -101,7 +101,6 @@
     "873 E 228th Street Apt. 1A - Apt 1A - $3697.97 -",
     "875 4th Avenue - Apt 302 - $2157.63 - MI",
     "885 Rogers Avenue - Apt 407 - $2590.63 -",
-    "885 Rogers Avenue - Apt 707 - $2180.15 -",
     "9-24 Main Ave - Apt 305 - $2830.76 -",
     "94 East 208th Street - Apt 1B - $3142 -",
     "947 Sheridan Ave - Apt 1D - $3128 -",
@@ -209,7 +208,6 @@
     "873 E 228th Street Apt. 1A - Apt 1A - $3697.97 -": "recmyVrGxLSYWlJKg",
     "875 4th Avenue - Apt 302 - $2157.63 - MI": "recFS1kpEb5mtwbfH",
     "885 Rogers Avenue - Apt 407 - $2590.63 -": "recqYTTsnxol1A5cK",
-    "885 Rogers Avenue - Apt 707 - $2180.15 -": "recaQzqaJgjEAn2Bi",
     "9-24 Main Ave - Apt 305 - $2830.76 -": "recHLRrPA6Ooi1k76",
     "94 East 208th Street - Apt 1B - $3142 -": "recW7FtfzYflRxUsd",
     "947 Sheridan Ave - Apt 1D - $3128 -": "recsPrCPAboZUyWj7",
@@ -218,5 +216,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-14T15:58:49.434188+00:00"
+  "updated_at": "2026-10-14T15:59:38.797908+00:00"
 }
