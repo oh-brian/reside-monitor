@@ -105,7 +105,6 @@
     "94 East 208th Street - Apt 1B - $3142 -",
     "947 Sheridan Ave - Apt 1D - $3128 -",
     "947 Sheridan Ave. Apt. 3C - Apt 3C - $3221.84 -",
-    "95-08 147th Place - Apt 404 - $1913.45 -",
     "Douglass Street Apartments - Apt 8L - $3495 -"
   ],
   "project_record_ids": {
@@ -212,9 +211,8 @@
     "94 East 208th Street - Apt 1B - $3142 -": "recW7FtfzYflRxUsd",
     "947 Sheridan Ave - Apt 1D - $3128 -": "recsPrCPAboZUyWj7",
     "947 Sheridan Ave. Apt. 3C - Apt 3C - $3221.84 -": "recdgxlD1ca2pnbqF",
-    "95-08 147th Place - Apt 404 - $1913.45 -": "recItOJHJGTNLhWxo",
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-14T15:59:38.797908+00:00"
+  "updated_at": "2026-10-14T16:07:18.504588+00:00"
 }
