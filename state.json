@@ -65,7 +65,6 @@
     "2588 7 Ave - Apt 2K - $2593 -",
     "2588 7th Ave - Apt 6D - $1437.04 -",
     "2588 7th Ave - Apt 6F - $1437.04 -",
-    "26 Sherman Ave - Apt 4I - $3035.41 -",
     "2741 Creston Avenue - Apt 2C - $2919.93 -",
     "2741 Creston Avenue - Apt 3D - $2721.77 -",
     "2816 8th Ave - Apt 4H - $1221.43 -",
@@ -165,7 +164,6 @@
     "2588 7 Ave - Apt 2K - $2593 -": "recRplPs2uHK6Bk80",
     "2588 7th Ave - Apt 6D - $1437.04 -": "recuNHEMR0C0e1ztb",
     "2588 7th Ave - Apt 6F - $1437.04 -": "recm0w4GWLUVSlIBl",
-    "26 Sherman Ave - Apt 4I - $3035.41 -": "reckwbU5QDoXxPkcl",
     "2741 Creston Avenue - Apt 2C - $2919.93 -": "rec0WoA7jRF0od264",
     "2741 Creston Avenue - Apt 3D - $2721.77 -": "reclZpTGFO29pP4t5",
     "2816 8th Ave - Apt 4H - $1221.43 -": "recIuTGi7fXvY40Nw",
@@ -202,5 +200,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-15T15:13:26.242493+00:00"
+  "updated_at": "2026-10-15T15:50:36.349561+00:00"
 }
