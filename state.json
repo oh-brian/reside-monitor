@@ -69,6 +69,7 @@
     "2816 8th Ave - Apt 6D - $1602.17 -",
     "2817 Atlantic Ave - Apt 7C - $2818.93 -",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -",
+    "3230 3rd Avenue - Apt 5F - $3558.22 -",
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI",
     "36-10 31st Street - Unit 3A - Apt 3A - $3308.31 -",
@@ -165,6 +166,7 @@
     "2816 8th Ave - Apt 6D - $1602.17 -": "reclt3MOjENPoQA4f",
     "2817 Atlantic Ave - Apt 7C - $2818.93 -": "recqOG1wGfZ2VFPYR",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -": "recRYTO5BrDJZR3ts",
+    "3230 3rd Avenue - Apt 5F - $3558.22 -": "rech4H16rl8SbAwMD",
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -": "recFL0FQjAQbotYir",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI": "recxJ9qyCliLXanX8",
     "36-10 31st Street - Unit 3A - Apt 3A - $3308.31 -": "reczy8IaY87tZ4yWS",
@@ -194,5 +196,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-15T18:07:12.804522+00:00"
+  "updated_at": "2026-10-15T18:31:06.268599+00:00"
 }
