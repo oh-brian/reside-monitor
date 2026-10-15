@@ -52,7 +52,6 @@
     "230 w 150 St - Apt 4F - $2351.45 -",
     "237 West 167 Street - Apt 3B - $3677.34 -",
     "237 West 167th Stret - Apt 4E - $3071.87 -",
-    "25-01 Queens Plaza North - Apt - $3653 -",
     "25-01 Queens Plaza North - Apt 1019 - $3653 -",
     "25-01 Queens Plaza North - Apt 325 - $3299 -",
     "25-01 Queens Plaza North - Apt 503 - $4316 -",
@@ -149,7 +148,6 @@
     "230 w 150 St - Apt 4F - $2351.45 -": "rec0XRsIJjXYKW9ZF",
     "237 West 167 Street - Apt 3B - $3677.34 -": "recOTjP3tzOSBVSlu",
     "237 West 167th Stret - Apt 4E - $3071.87 -": "recHEaZh5bE35y3F3",
-    "25-01 Queens Plaza North - Apt - $3653 -": "rechTeEL1gaEa4J8i",
     "25-01 Queens Plaza North - Apt 1019 - $3653 -": "recghf35pdYrvl3yG",
     "25-01 Queens Plaza North - Apt 325 - $3299 -": "rec8O2b4OoYtYR69e",
     "25-01 Queens Plaza North - Apt 503 - $4316 -": "recGyzzmwpTqwM1SV",
@@ -196,5 +194,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-15T18:06:35.779688+00:00"
+  "updated_at": "2026-10-15T18:07:12.804522+00:00"
 }
