@@ -11,7 +11,7 @@
       "first_seen_source": "observed",
       "household_size": "1-3 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": null,
       "max_income": "$61,080.00",
       "min_income": "$30,476.57",
@@ -34,7 +34,7 @@
       "first_seen_source": "fac_history_migration",
       "household_size": "1-2 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": {
         "borough": "Staten Island",
         "display_name": "539, Vanderbilt Avenue, Fox Hills, Staten Island, Richmond County, New York, 10304, United States",
@@ -64,7 +64,7 @@
       "first_seen_source": "fac_history_migration",
       "household_size": "1 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "551, Warren Street, Gowanus, Brooklyn, Kings County, New York, 11217, United States",
@@ -94,7 +94,7 @@
       "first_seen_source": "fac_history_migration",
       "household_size": "1 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "551, Warren Street, Gowanus, Brooklyn, Kings County, New York, 11217, United States",
@@ -124,7 +124,7 @@
       "first_seen_source": "fac_history_migration",
       "household_size": "1 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "551, Warren Street, Gowanus, Brooklyn, Kings County, New York, 11217, United States",
@@ -154,7 +154,7 @@
       "first_seen_source": "fac_history_migration",
       "household_size": "1 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "551, Warren Street, Gowanus, Brooklyn, Kings County, New York, 11217, United States",
@@ -184,7 +184,7 @@
       "first_seen_source": "fac_history_migration",
       "household_size": "1 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "551, Warren Street, Gowanus, Brooklyn, Kings County, New York, 11217, United States",
@@ -214,7 +214,7 @@
       "first_seen_source": "fac_history_migration",
       "household_size": "1 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "551, Warren Street, Gowanus, Brooklyn, Kings County, New York, 11217, United States",
@@ -244,7 +244,7 @@
       "first_seen_source": "fac_history_migration",
       "household_size": "1 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": {
         "borough": "Brooklyn",
         "display_name": "551, Warren Street, Gowanus, Brooklyn, Kings County, New York, 11217, United States",
@@ -265,7 +265,7 @@
       "unit_size": "Studio"
     },
     "paseo on fifth||n 308": {
-      "active": true,
+      "active": false,
       "address": null,
       "ami": "40%",
       "appearance_count": 1,
@@ -273,7 +273,7 @@
       "first_seen": "2026-08-20T00:58:27.527474+00:00",
       "first_seen_source": "fac_history_migration",
       "household_size": "1-5 people",
-      "last_removed_at": null,
+      "last_removed_at": "2026-10-15T15:04:45.618101+00:00",
       "last_seen": "2026-09-11T20:15:58.077714+00:00",
       "location": {
         "borough": "Brooklyn",
@@ -287,7 +287,7 @@
       "min_income": "$39,325.71",
       "one_person_eligible": true,
       "one_person_only": false,
-      "removal_count": 0,
+      "removal_count": 1,
       "rent": "$980.00",
       "source": "FAC",
       "status": "current",
@@ -373,7 +373,7 @@
       "first_seen_source": "observed",
       "household_size": "2-5 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": null,
       "max_income": "$91,600.00",
       "min_income": null,
@@ -396,7 +396,7 @@
       "first_seen_source": "observed",
       "household_size": "1-2 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": null,
       "max_income": "$108,560.00",
       "min_income": null,
@@ -419,7 +419,7 @@
       "first_seen_source": "observed",
       "household_size": "1-2 people",
       "last_removed_at": null,
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": null,
       "max_income": "$81,420.00",
       "min_income": null,
@@ -442,7 +442,7 @@
       "first_seen_source": "observed",
       "household_size": "1-3 people",
       "last_removed_at": "2026-09-11T19:12:51.091667+00:00",
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": null,
       "max_income": "$76,350.00",
       "min_income": null,
@@ -465,7 +465,7 @@
       "first_seen_source": "observed",
       "household_size": "1-2 people",
       "last_removed_at": "2026-09-11T19:12:51.091667+00:00",
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": null,
       "max_income": "$67,850.00",
       "min_income": null,
@@ -488,7 +488,7 @@
       "first_seen_source": "observed",
       "household_size": "1-2 people",
       "last_removed_at": "2026-09-11T19:12:51.091667+00:00",
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": null,
       "max_income": "$67,850.00",
       "min_income": null,
@@ -511,7 +511,7 @@
       "first_seen_source": "observed",
       "household_size": "1-2 people",
       "last_removed_at": "2026-09-11T19:12:51.091667+00:00",
-      "last_seen": "2026-09-11T20:15:58.077714+00:00",
+      "last_seen": "2026-10-15T15:04:45.618101+00:00",
       "location": null,
       "max_income": "$67,850.00",
       "min_income": null,
@@ -525,6 +525,6 @@
       "unit_size": "Studio"
     }
   },
-  "updated_at": "2026-09-11T20:16:05.712335+00:00",
+  "updated_at": "2026-10-15T15:04:46.735864+00:00",
   "version": 1
 }

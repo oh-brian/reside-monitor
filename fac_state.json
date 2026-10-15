@@ -64,13 +64,6 @@
       "status": "upcoming",
       "unit": "6G"
     },
-    "paseo on fifth||n 308": {
-      "address": null,
-      "building": "Paseo on Fifth",
-      "rent": "$980.00",
-      "status": "current",
-      "unit": "N-308"
-    },
     "sunset park apartments and library||6f": {
       "address": null,
       "building": "Sunset Park Apartments and Library",
@@ -121,5 +114,5 @@
       "unit": "8C"
     }
   },
-  "updated_at": "2026-09-11T20:16:05.711935+00:00"
+  "updated_at": "2026-10-15T15:04:46.735234+00:00"
 }
