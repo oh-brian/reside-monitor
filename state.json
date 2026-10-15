@@ -84,8 +84,6 @@
     "44-15 Colden Street - Apt 1S - $2593 -",
     "44-15 Colden Street - Apt 2E - $2593 -",
     "44-35 Colden Street - Apt 1L - $2816 -",
-    "44-72 11th Street - Apt A503 - $829.5 -",
-    "44-72 11th Street - Apt B503 - $815.16 -",
     "446 Cyrus Place - Apt 2B - $3645.11 -",
     "45-15 Colden Street - Apt 1B - $2593 -",
     "45-15 Colden Street - Apt 1C - $2593 -",
@@ -191,8 +189,6 @@
     "44-15 Colden Street - Apt 1S - $2593 -": "recGeGVaGAnY3Fki3",
     "44-15 Colden Street - Apt 2E - $2593 -": "recvxI4pVH2zTwCNI",
     "44-35 Colden Street - Apt 1L - $2816 -": "recL2Vo8m3xdi1REp",
-    "44-72 11th Street - Apt A503 - $829.5 -": "rec4KIPd10fyYJl55",
-    "44-72 11th Street - Apt B503 - $815.16 -": "recYbw7P7VA8r7eza",
     "446 Cyrus Place - Apt 2B - $3645.11 -": "recgNxKPlLtfdPBSe",
     "45-15 Colden Street - Apt 1B - $2593 -": "rec6i7x2t3sjIrNFi",
     "45-15 Colden Street - Apt 1C - $2593 -": "recAXAaUq2egNHVEg",
@@ -216,5 +212,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-15T14:44:01.105930+00:00"
+  "updated_at": "2026-10-15T14:58:58.792126+00:00"
 }
