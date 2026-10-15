@@ -21,7 +21,7 @@
       "income_range": "$126,583 - $198,510",
       "tiers": {},
       "title": "1215 Fulton Street aka 12 Halsey Street",
-      "units_count": 6,
+      "units_count": 5,
       "url": "https://mgnyconsulting.com/listing/1215fulton12halsey/"
     },
     "https://mgnyconsulting.com/listing/1295-rodman-place-apartments": {
@@ -536,5 +536,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-15T19:17:11.599940+00:00"
+  "updated_at": "2026-10-15T21:17:55.121462+00:00"
 }
