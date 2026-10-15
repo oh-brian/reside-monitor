@@ -260,29 +260,6 @@
       "units_count": 5,
       "url": "https://mgnyconsulting.com/listing/445-gerard-avenue-apartments/"
     },
-    "https://mgnyconsulting.com/listing/845-southern-boulevard": {
-      "address": "845 Southern Boulevard 845 Southern Blvd, Bronx, NY 10459",
-      "income_range": "$81,761 - $227,500",
-      "tiers": {
-        "130%||2br||$1,961.70||2-5 people": {
-          "active": true,
-          "ami": "130%",
-          "annual_income": "$81,761 – $227,500",
-          "appearance_count": 2,
-          "first_seen": "2026-10-09T19:59:21.217850+00:00",
-          "household_size": "2-5 people",
-          "last_removed_at": "2026-10-09T20:00:02.475952+00:00",
-          "last_seen": "2026-10-09T20:00:46.288252+00:00",
-          "removal_count": 1,
-          "rent": "$1,961.70",
-          "unit_size": "2BR",
-          "units_available": 1
-        }
-      },
-      "title": "845 Southern Boulevard",
-      "units_count": 1,
-      "url": "https://mgnyconsulting.com/listing/845-southern-boulevard/"
-    },
     "https://mgnyconsulting.com/listing/865-rogers-avenue": {
       "address": null,
       "income_range": "$80,289 - $176,410",
@@ -522,5 +499,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-15T16:46:47.142073+00:00"
+  "updated_at": "2026-10-15T16:56:08.368430+00:00"
 }
