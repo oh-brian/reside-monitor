@@ -76,7 +76,6 @@
     "378 East 165 Street - Apt 202 - $2778.13 -",
     "3914 15th Ave - Apt 1 Br - $3300 -",
     "3914 15th Ave - Apt 2 Br - $3400 -",
-    "43-08 52nd Street - Unit 305 - Apt 305 - $2037.28 -",
     "44-15 Colden Street - Apt 1S - $2593 -",
     "44-15 Colden Street - Apt 2E - $2593 -",
     "44-35 Colden Street - Apt 1L - $2816 -",
@@ -176,7 +175,6 @@
     "378 East 165 Street - Apt 202 - $2778.13 -": "recymYFzaYnDKIDmC",
     "3914 15th Ave - Apt 1 Br - $3300 -": "recLSxJ19wRUZsX6n",
     "3914 15th Ave - Apt 2 Br - $3400 -": "recLH0otaWwP6r8gw",
-    "43-08 52nd Street - Unit 305 - Apt 305 - $2037.28 -": "recVKfKqYHD3nyEPB",
     "44-15 Colden Street - Apt 1S - $2593 -": "recGeGVaGAnY3Fki3",
     "44-15 Colden Street - Apt 2E - $2593 -": "recvxI4pVH2zTwCNI",
     "44-35 Colden Street - Apt 1L - $2816 -": "recL2Vo8m3xdi1REp",
@@ -202,5 +200,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-15T18:34:41.612603+00:00"
+  "updated_at": "2026-10-15T18:35:23.122865+00:00"
 }
