@@ -11,7 +11,7 @@
       "first_seen": "2026-08-20T03:36:15.929478+00:00",
       "first_seen_source": "mns_history_migration",
       "last_removed_at": null,
-      "last_seen": "2026-10-14T20:08:53.036426+00:00",
+      "last_seen": "2026-10-15T01:22:53.754565+00:00",
       "location": null,
       "removal_count": 0,
       "rent": "$2,653.00",
@@ -97,7 +97,7 @@
       "url": "https://www.mns.com/details/240645/rental/downtown+brooklyn/brooklyn"
     },
     "336 e 18 st||cw": {
-      "active": true,
+      "active": false,
       "address": "336 E 18 ST",
       "appearance_count": 1,
       "bathrooms": "2",
@@ -113,7 +113,7 @@
       },
       "first_seen": "2026-10-14T20:08:53.036426+00:00",
       "first_seen_source": "observed",
-      "last_removed_at": null,
+      "last_removed_at": "2026-10-15T01:22:53.754565+00:00",
       "last_seen": "2026-10-14T20:08:53.036426+00:00",
       "location": {
         "borough": "Manhattan",
@@ -123,7 +123,7 @@
         "neighborhood": "Gramercy",
         "postcode": "10003"
       },
-      "removal_count": 0,
+      "removal_count": 1,
       "rent": "$5,250.00",
       "source": "MNS",
       "sqft": null,
@@ -207,6 +207,6 @@
       "url": "https://www.mns.com/details/240766/rental/tribeca/manhattan"
     }
   },
-  "updated_at": "2026-10-14T20:08:54.406082+00:00",
+  "updated_at": "2026-10-15T01:22:53.754970+00:00",
   "version": 1
 }
