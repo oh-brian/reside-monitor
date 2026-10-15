@@ -16,7 +16,7 @@
     "1429 longfellow ave bronx ny||2d": {
       "address": "1429 Longfellow Ave, Bronx, NY",
       "apply_url": "https://forms.clickup.com/14203750/f/dhev6-28453/L27N3ZOEIYT8404CBZ",
-      "rent": "$3,574.00",
+      "rent": "$2,954.00",
       "unit": "2D"
     },
     "1464 watson ave bronx ny||315": {
@@ -200,5 +200,5 @@
       "unit": "7A"
     }
   },
-  "updated_at": "2026-10-15T18:57:35.486574+00:00"
+  "updated_at": "2026-10-15T19:44:05.474608+00:00"
 }
