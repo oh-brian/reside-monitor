@@ -10,7 +10,6 @@
     "106 Mt. Hope Place - Apt 6C - $2727.02 -",
     "106 Mt. Hope Place - Apt 7E - $2748.79 -",
     "1135 Teller Ave - Apt 8D - $3284.56 -",
-    "1135 Teller Ave - Unit 3E - Apt 3E - $3219.6 -",
     "115 Stanwix St - Apt 218 - $2407.89 -",
     "1169 Hoe Ave - Apt 3E - $3466.27 -",
     "1245 Edward L Grant Highway - Apt 8H - Apt 8H - $1294.65 -",
@@ -113,7 +112,6 @@
     "106 Mt. Hope Place - Apt 6C - $2727.02 -": "recrpwbaoI352905D",
     "106 Mt. Hope Place - Apt 7E - $2748.79 -": "recOvNPkuQWqfZJLD",
     "1135 Teller Ave - Apt 8D - $3284.56 -": "rec3BodgheMwDs6bY",
-    "1135 Teller Ave - Unit 3E - Apt 3E - $3219.6 -": "recVseDWIs4g0C16L",
     "115 Stanwix St - Apt 218 - $2407.89 -": "recQR5uHfnLuqs3n7",
     "1169 Hoe Ave - Apt 3E - $3466.27 -": "rec95OFuDXpzJHDgT",
     "1245 Edward L Grant Highway - Apt 8H - Apt 8H - $1294.65 -": "recz43yyyA8GLodoW",
@@ -208,5 +206,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-15T15:06:42.514744+00:00"
+  "updated_at": "2026-10-15T15:08:08.725376+00:00"
 }
