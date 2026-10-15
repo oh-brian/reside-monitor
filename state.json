@@ -3,7 +3,6 @@
   "initialized": true,
   "options": [
     "100 Belmont Place - Apt 4B - $1383.75 -",
-    "1000 Woodycrest Ave - Apt 6A - $3434.45 -",
     "1010 Washington Avenue - Apt 1016 - $5002 -",
     "102 Central Ave - Apt 3F - $2550.54 -",
     "106 Mt. Hope Place - Apt 3D - $2747.44 -",
@@ -100,7 +99,6 @@
   ],
   "project_record_ids": {
     "100 Belmont Place - Apt 4B - $1383.75 -": "reclHBaPxKBwDbnFW",
-    "1000 Woodycrest Ave - Apt 6A - $3434.45 -": "recjhy22F3CHdBkZ2",
     "1010 Washington Avenue - Apt 1016 - $5002 -": "rectC7Ck2HBukOk2y",
     "102 Central Ave - Apt 3F - $2550.54 -": "rec4FqiqPbue0oBQi",
     "106 Mt. Hope Place - Apt 3D - $2747.44 -": "recX5UI8jXOGMGZBL",
@@ -196,5 +194,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-15T15:59:36.491775+00:00"
+  "updated_at": "2026-10-15T16:03:49.088556+00:00"
 }
