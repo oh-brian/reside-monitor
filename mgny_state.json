@@ -8,14 +8,6 @@
       "units_count": 4,
       "url": "https://mgnyconsulting.com/listing/111-willoughby-street/"
     },
-    "https://mgnyconsulting.com/listing/1111-foster-avenue-apartments": {
-      "address": "1111 Foster Avenue 1111 Foster Ave, Brooklyn, NY 11230",
-      "income_range": "$67,474 - $176,410",
-      "tiers": {},
-      "title": "1111 Foster Avenue",
-      "units_count": 1,
-      "url": "https://mgnyconsulting.com/listing/1111-foster-avenue-apartments/"
-    },
     "https://mgnyconsulting.com/listing/1215-fulton-street-aka-12-halsey-street": {
       "address": null,
       "income_range": "$126,583 - $198,510",
@@ -530,5 +522,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-15T15:14:58.002691+00:00"
+  "updated_at": "2026-10-15T16:46:47.142073+00:00"
 }
