@@ -416,6 +416,14 @@
       "units_count": 4,
       "url": "https://mgnyconsulting.com/listing/forten/"
     },
+    "https://mgnyconsulting.com/listing/house-55-apartments": {
+      "address": "55 Apartments 55 Willoughby St, Brooklyn, NY 11201",
+      "income_range": "$126,412 - $198,510",
+      "tiers": {},
+      "title": "House 55 Apartments",
+      "units_count": 46,
+      "url": "https://mgnyconsulting.com/listing/house-55-apartments/"
+    },
     "https://mgnyconsulting.com/listing/jasper-hunters-point": {
       "address": null,
       "income_range": "$118,766 - $198,510",
@@ -522,5 +530,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-13T17:59:09.640468+00:00"
+  "updated_at": "2026-10-15T15:14:58.002691+00:00"
 }
