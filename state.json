@@ -24,7 +24,6 @@
     "137-20 45th Ave - Apt 5L - $2889 -",
     "137-20 Colden Street - Apt 2N - $2855 -",
     "1395 Bristow Ave - Apt 3A - $4168.74 -",
-    "1433 Teller Ave- Apt. 3D - Apt 3D - $3322.82 -",
     "1433 Teller Avenue - Apt 3D - $3322.82 -",
     "1440 Amsterdam Avenue - Apt 2 bedroom - $4568 -",
     "1440 Amsterdam Avenue - Apt 702 - $3195 -",
@@ -126,7 +125,6 @@
     "137-20 45th Ave - Apt 5L - $2889 -": "recHS1s4pi53z6hJ5",
     "137-20 Colden Street - Apt 2N - $2855 -": "recM20rige7e60u2p",
     "1395 Bristow Ave - Apt 3A - $4168.74 -": "rec87mTtTGTY7To19",
-    "1433 Teller Ave- Apt. 3D - Apt 3D - $3322.82 -": "recnW6xUrLgnwUkS8",
     "1433 Teller Avenue - Apt 3D - $3322.82 -": "recdt7Rkzq2giJTPr",
     "1440 Amsterdam Avenue - Apt 2 bedroom - $4568 -": "recN9sJ60POwokBlF",
     "1440 Amsterdam Avenue - Apt 702 - $3195 -": "recS5S5PuXzT0NriJ",
@@ -206,5 +204,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-15T15:08:08.725376+00:00"
+  "updated_at": "2026-10-15T15:09:43.733402+00:00"
 }
