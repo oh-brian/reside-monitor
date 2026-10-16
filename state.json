@@ -82,6 +82,7 @@
     "647 Sheffield Ave- Apt. 1A - Apt 1A - $2800.41 -",
     "65 Buchanan Place - Apt 3B-07 - $1928.65 -",
     "679 Marcy Ave - Apt 5B - $2769 -",
+    "701 Elton Ave - Apt 2C - $2428.69 -",
     "765 East 214 Street Apt. 703 - Apt 703 - $3019.9 -",
     "86 West 174 St - Apt 3B - $3950.05 -",
     "864 49th Street - Apt D1 - $3544 -",
@@ -175,6 +176,7 @@
     "647 Sheffield Ave- Apt. 1A - Apt 1A - $2800.41 -": "recroF9t4eeGJVbOq",
     "65 Buchanan Place - Apt 3B-07 - $1928.65 -": "reclA8OEL0jx0e9Fk",
     "679 Marcy Ave - Apt 5B - $2769 -": "recL426kkiwmHHLQy",
+    "701 Elton Ave - Apt 2C - $2428.69 -": "recpjW9AKBrg1wOXO",
     "765 East 214 Street Apt. 703 - Apt 703 - $3019.9 -": "recDHccgkL8ARHZIb",
     "86 West 174 St - Apt 3B - $3950.05 -": "recHvWbrCDaGRfD6U",
     "864 49th Street - Apt D1 - $3544 -": "recnKNPdrNNQcuiw8",
@@ -188,5 +190,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-15T18:43:28.235248+00:00"
+  "updated_at": "2026-10-16T14:11:29.370371+00:00"
 }
