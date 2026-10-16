@@ -3,6 +3,7 @@
   "initialized": true,
   "options": [
     "1010 Washington Avenue - Apt 521 - $5002 -",
+    "1052 Greene Ave - Apt 4A - $2283.63 -",
     "106 Mt. Hope Place - Apt 3D - $2747.44 -",
     "106 Mt. Hope Place - Apt 6C - $2727.02 -",
     "106 Mt. Hope Place - Apt 7E - $2748.79 -",
@@ -75,6 +76,7 @@
   ],
   "project_record_ids": {
     "1010 Washington Avenue - Apt 521 - $5002 -": "recN0kOIIkTLYlMu5",
+    "1052 Greene Ave - Apt 4A - $2283.63 -": "rec4KtvC0daQ3VZ6u",
     "106 Mt. Hope Place - Apt 3D - $2747.44 -": "recX5UI8jXOGMGZBL",
     "106 Mt. Hope Place - Apt 6C - $2727.02 -": "recrpwbaoI352905D",
     "106 Mt. Hope Place - Apt 7E - $2748.79 -": "recOvNPkuQWqfZJLD",
@@ -146,5 +148,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-16T14:29:57.554793+00:00"
+  "updated_at": "2026-10-16T14:45:55.636997+00:00"
 }
