@@ -266,6 +266,14 @@
       "units_count": 1,
       "url": "https://mgnyconsulting.com/listing/336-himrod-street/"
     },
+    "https://mgnyconsulting.com/listing/3365-cruger-avenue-apartments": {
+      "address": "3365 Cruger Avenue Apartments 3365 Cruger Avenue, Bronx, NY 10467",
+      "income_range": "$73,198 - $198,510",
+      "tiers": {},
+      "title": "3365 Cruger Avenue Apartments",
+      "units_count": 1,
+      "url": "https://mgnyconsulting.com/listing/3365-cruger-avenue-apartments/"
+    },
     "https://mgnyconsulting.com/listing/445-gerard-avenue-apartments": {
       "address": "445 Gerard Avenue Apartments 445 Gerard Ave, Bronx, NY 10451",
       "income_range": "$95,452 - $198,510",
@@ -536,5 +544,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-15T21:17:55.121462+00:00"
+  "updated_at": "2026-10-16T14:35:45.780658+00:00"
 }
