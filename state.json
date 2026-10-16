@@ -29,7 +29,6 @@
     "1677 Townsend Ave - Apt 7A - $4367.03 -",
     "1718 President Street - Apt 10B - $3412.21 -",
     "1718 President Street - Apt 6D - $3861.62 - Senior Preferece 60+",
-    "180 W 166 - Apt 4B - $2554.4 -",
     "190 E 205 Street - Apt 5B - $3367 -",
     "1988 Anthony Ave - Apt 2A - $2798.41 -",
     "1988 Anthony Ave - Apt 2D - $2791.64 -",
@@ -102,7 +101,6 @@
     "1677 Townsend Ave - Apt 7A - $4367.03 -": "recR09j4tKmLTbaVj",
     "1718 President Street - Apt 10B - $3412.21 -": "rec2jghR27k38Pqxn",
     "1718 President Street - Apt 6D - $3861.62 - Senior Preferece 60+": "recSUSfR9IXFm78yr",
-    "180 W 166 - Apt 4B - $2554.4 -": "reci6H09Khdhjz0bO",
     "190 E 205 Street - Apt 5B - $3367 -": "recjUNVmDQ4cQRU1e",
     "1988 Anthony Ave - Apt 2A - $2798.41 -": "reci5NoLFtD9rUQyH",
     "1988 Anthony Ave - Apt 2D - $2791.64 -": "recF7vJyoyJwYhtbo",
@@ -148,5 +146,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-16T14:24:37.457184+00:00"
+  "updated_at": "2026-10-16T14:29:57.554793+00:00"
 }
