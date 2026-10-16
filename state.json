@@ -27,7 +27,6 @@
     "1499 Bedford Ave - Apt 8C - $3219.6 -",
     "16 Dupont Street - Apt 30A - $3128 -",
     "1677 Townsend Ave - Apt 7A - $4367.03 -",
-    "169 Lott Street - Apt 3D - $2215.29 -",
     "1718 President Street - Apt 10B - $3412.21 -",
     "1718 President Street - Apt 6D - $3861.62 - Senior Preferece 60+",
     "180 W 166 - Apt 4B - $2554.4 -",
@@ -101,7 +100,6 @@
     "1499 Bedford Ave - Apt 8C - $3219.6 -": "rec7QGgWrD02uGy0x",
     "16 Dupont Street - Apt 30A - $3128 -": "rec446AvWeh2q93mq",
     "1677 Townsend Ave - Apt 7A - $4367.03 -": "recR09j4tKmLTbaVj",
-    "169 Lott Street - Apt 3D - $2215.29 -": "reccQwnYQCD9p3CJt",
     "1718 President Street - Apt 10B - $3412.21 -": "rec2jghR27k38Pqxn",
     "1718 President Street - Apt 6D - $3861.62 - Senior Preferece 60+": "recSUSfR9IXFm78yr",
     "180 W 166 - Apt 4B - $2554.4 -": "reci6H09Khdhjz0bO",
@@ -150,5 +148,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-16T14:24:03.917343+00:00"
+  "updated_at": "2026-10-16T14:24:37.457184+00:00"
 }
