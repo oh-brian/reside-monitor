@@ -1,7 +1,7 @@
 {
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "failure_alert_sent": false,
-  "last_error": null,
-  "last_failure": "2026-10-15T18:33:24.377663+00:00",
+  "last_error": "TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://airtable.com/appsseXTOVx59HC0W/pagcVengefPFQvMZC/form\", waiting until \"domcontentloaded\"\n",
+  "last_failure": "2026-10-16T00:26:40.719591+00:00",
   "last_success": "2026-10-15T18:34:41.621821+00:00"
 }
