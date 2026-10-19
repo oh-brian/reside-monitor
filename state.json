@@ -17,7 +17,6 @@
     "1315 Findlay Avenue - Apt 3C - $3000.68 -",
     "1315 Findlay Avenue - Apt 4C - $2851 -",
     "1361 Teller Ave - Apt 3E - $2824.38 -",
-    "138 Bruckner - 317 - Apt 317 - $2823.2 -",
     "1395 Bristow Ave - Apt 3A - $4168.74 -",
     "1433 Teller Avenue - Apt 3D - $3322.82 -",
     "1440 Amsterdam Avenue - Apt 2 bedroom - $4568 -",
@@ -93,7 +92,6 @@
     "1315 Findlay Avenue - Apt 3C - $3000.68 -": "recQyC4UpVCYifW3k",
     "1315 Findlay Avenue - Apt 4C - $2851 -": "recUGRZH6cZimb82N",
     "1361 Teller Ave - Apt 3E - $2824.38 -": "recDHYN6KsPNGhoLR",
-    "138 Bruckner - 317 - Apt 317 - $2823.2 -": "recoxRGcZvoTZOAbl",
     "1395 Bristow Ave - Apt 3A - $4168.74 -": "rec87mTtTGTY7To19",
     "1433 Teller Avenue - Apt 3D - $3322.82 -": "recdt7Rkzq2giJTPr",
     "1440 Amsterdam Avenue - Apt 2 bedroom - $4568 -": "recN9sJ60POwokBlF",
@@ -154,5 +152,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-19T15:17:27.492114+00:00"
+  "updated_at": "2026-10-19T15:18:14.577898+00:00"
 }
