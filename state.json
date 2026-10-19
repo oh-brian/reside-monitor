@@ -55,6 +55,9 @@
     "254 Amboy Street - Apt 2B - Apt 2B - $2882.8 -",
     "256 Mount Hope Place - Apt 7B - $3595 -",
     "2588 7th Ave - Apt 5N - $2902.61 -",
+    "28-08 38th Avenue - Apt 1 BR - $3661 -",
+    "28-08 38th Avenue - Apt 2 BR - $4376 -",
+    "28-08 38th Avenue - Apt 2F - $3423 -",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -",
     "3230 3rd Avenue - Apt 5F - $3558.22 -",
@@ -132,6 +135,9 @@
     "254 Amboy Street - Apt 2B - Apt 2B - $2882.8 -": "recm7FrbudUKjdu5J",
     "256 Mount Hope Place - Apt 7B - $3595 -": "recD2oZ396qm8zEjy",
     "2588 7th Ave - Apt 5N - $2902.61 -": "recoGIhWlT8qkA6Ai",
+    "28-08 38th Avenue - Apt 1 BR - $3661 -": "recwvBBTFfBtVk1tt",
+    "28-08 38th Avenue - Apt 2 BR - $4376 -": "recuZY0O8LXq72UvI",
+    "28-08 38th Avenue - Apt 2F - $3423 -": "recQY4FRCnuwpn0T0",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -": "recRYTO5BrDJZR3ts",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -": "recsAzcnRYpROMZ6s",
     "3230 3rd Avenue - Apt 5F - $3558.22 -": "rech4H16rl8SbAwMD",
@@ -156,5 +162,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-19T15:22:24.372473+00:00"
+  "updated_at": "2026-10-19T16:06:06.710843+00:00"
 }
