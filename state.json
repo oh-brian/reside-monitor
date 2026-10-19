@@ -29,6 +29,7 @@
     "1677 Townsend Ave - Apt 7A - $4367.03 -",
     "1718 President Street - Apt 10B - $3412.21 -",
     "1718 President Street - Apt 6D - $3861.62 - Senior Preferece 60+",
+    "180 W 166 - Apt 4B - $2554.4 -",
     "190 E 205 Street - Apt 5B - $3367 -",
     "1988 Anthony Ave - Apt 2A - $2798.41 -",
     "1988 Anthony Ave - Apt 2D - $2791.64 -",
@@ -56,6 +57,9 @@
     "2588 7th Ave - Apt 5N - $2902.61 -",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -",
+    "3073 Barker Ave Apartments - OM - 1 Bed - Apt 1 Bed - $2954 -",
+    "3073 Barker Ave Apartments - OM - 2 Bed - Apt 2 Bed - $3187 -",
+    "3073 Barker Ave Apartments - OM - Studio - Apt Studio - $2835 -",
     "3230 3rd Avenue - Apt 5F - $3558.22 -",
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI",
@@ -105,6 +109,7 @@
     "1677 Townsend Ave - Apt 7A - $4367.03 -": "recR09j4tKmLTbaVj",
     "1718 President Street - Apt 10B - $3412.21 -": "rec2jghR27k38Pqxn",
     "1718 President Street - Apt 6D - $3861.62 - Senior Preferece 60+": "recSUSfR9IXFm78yr",
+    "180 W 166 - Apt 4B - $2554.4 -": "reci6H09Khdhjz0bO",
     "190 E 205 Street - Apt 5B - $3367 -": "recjUNVmDQ4cQRU1e",
     "1988 Anthony Ave - Apt 2A - $2798.41 -": "reci5NoLFtD9rUQyH",
     "1988 Anthony Ave - Apt 2D - $2791.64 -": "recF7vJyoyJwYhtbo",
@@ -132,6 +137,9 @@
     "2588 7th Ave - Apt 5N - $2902.61 -": "recoGIhWlT8qkA6Ai",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -": "recRYTO5BrDJZR3ts",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -": "recsAzcnRYpROMZ6s",
+    "3073 Barker Ave Apartments - OM - 1 Bed - Apt 1 Bed - $2954 -": "recy0X8BxzhNT79kr",
+    "3073 Barker Ave Apartments - OM - 2 Bed - Apt 2 Bed - $3187 -": "recWZlxdwSSdvPRDq",
+    "3073 Barker Ave Apartments - OM - Studio - Apt Studio - $2835 -": "recXXFkhGz9Kax7P8",
     "3230 3rd Avenue - Apt 5F - $3558.22 -": "rech4H16rl8SbAwMD",
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -": "recFL0FQjAQbotYir",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI": "recxJ9qyCliLXanX8",
@@ -154,5 +162,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-19T15:20:14.656644+00:00"
+  "updated_at": "2026-10-19T15:21:44.514090+00:00"
 }
