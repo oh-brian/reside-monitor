@@ -69,6 +69,7 @@
     "36-10 31st Street - Unit 3A - Apt 3A - $3308.31 -",
     "3914 15th Ave - Apt 1 Br - $3300 -",
     "3914 15th Ave - Apt 2 Br - $3400 -",
+    "410 Tompkins Ave - Apt 3G - $2499.54 -",
     "44-15 Colden St - Apt 2G - $2855 -",
     "633 East 230th Street Apt. 7D - Apt 7D - $3835 -",
     "647 Sheffield Ave- Apt. 1A - Apt 1A - $2800.41 -",
@@ -151,6 +152,7 @@
     "36-10 31st Street - Unit 3A - Apt 3A - $3308.31 -": "reczy8IaY87tZ4yWS",
     "3914 15th Ave - Apt 1 Br - $3300 -": "recLSxJ19wRUZsX6n",
     "3914 15th Ave - Apt 2 Br - $3400 -": "recLH0otaWwP6r8gw",
+    "410 Tompkins Ave - Apt 3G - $2499.54 -": "recFVi9wjWkZFNz6o",
     "44-15 Colden St - Apt 2G - $2855 -": "rechB5UdNE3pQ0jZH",
     "633 East 230th Street Apt. 7D - Apt 7D - $3835 -": "rec1mjyTZwgJKYMqh",
     "647 Sheffield Ave- Apt. 1A - Apt 1A - $2800.41 -": "recroF9t4eeGJVbOq",
@@ -166,5 +168,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-20T15:08:24.412520+00:00"
+  "updated_at": "2026-10-20T15:43:24.711747+00:00"
 }
