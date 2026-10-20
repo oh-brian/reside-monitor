@@ -243,6 +243,29 @@
       "units_count": 3,
       "url": "https://mgnyconsulting.com/listing/27-east-198-street/"
     },
+    "https://mgnyconsulting.com/listing/303-west-137th-street": {
+      "address": "303 West 137th Street 303 W 137th St, New York, NY 10030",
+      "income_range": "$103,420 - $238,160",
+      "tiers": {
+        "130%||2-bedrooms||$2,846.39||2-5 people": {
+          "active": true,
+          "ami": "130%",
+          "annual_income": "$103,420 – $238,160",
+          "appearance_count": 1,
+          "first_seen": "2026-10-20T20:47:37.891275+00:00",
+          "household_size": "2-5 people",
+          "last_removed_at": null,
+          "last_seen": "2026-10-20T20:47:37.891275+00:00",
+          "removal_count": 0,
+          "rent": "$2,846.39",
+          "unit_size": "2-bedrooms",
+          "units_available": 1
+        }
+      },
+      "title": "303 West 137th Street",
+      "units_count": 1,
+      "url": "https://mgnyconsulting.com/listing/303-west-137th-street/"
+    },
     "https://mgnyconsulting.com/listing/336-himrod-street": {
       "address": "336 Himrod Street 336 Himrod Street, Brooklyn, NY 11237",
       "income_range": "$81,966 - $176,410",
@@ -544,5 +567,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-16T14:35:45.780658+00:00"
+  "updated_at": "2026-10-20T20:47:37.891275+00:00"
 }
