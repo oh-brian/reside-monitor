@@ -34,6 +34,7 @@
     "2 Blue Slip - Apt 9D - $2589.74 -",
     "20 & 30 Halletts Point - Studios - Apt - $3261 -",
     "20 & 30 Halletts Point - Two 2 BRs - Apt - $3986 -",
+    "2061 Crotona - Apt 4C - $3237.41 -",
     "2061 Crotona Ave - Apt 2C - $3237.42 -",
     "2061Crotona - Apt 4B - $3787.95 -",
     "2072 Anthony Ave - Apt 4J - $3037.47 -",
@@ -117,6 +118,7 @@
     "2 Blue Slip - Apt 9D - $2589.74 -": "reclOshBIA1Q6C1Xp",
     "20 & 30 Halletts Point - Studios - Apt - $3261 -": "recY1Y7wg2tY7S9MR",
     "20 & 30 Halletts Point - Two 2 BRs - Apt - $3986 -": "rec8QdL8gJOo0huZw",
+    "2061 Crotona - Apt 4C - $3237.41 -": "rectsKHgamEGuMbTd",
     "2061 Crotona Ave - Apt 2C - $3237.42 -": "recl8wA3YDcWn44ag",
     "2061Crotona - Apt 4B - $3787.95 -": "recpT0cpxzm2HwTe5",
     "2072 Anthony Ave - Apt 4J - $3037.47 -": "rec3mMbZKu8pdpNCL",
@@ -168,5 +170,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-20T20:01:01.399646+00:00"
+  "updated_at": "2026-10-20T20:01:43.487010+00:00"
 }
