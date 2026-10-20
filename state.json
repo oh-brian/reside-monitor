@@ -45,7 +45,6 @@
     "2180 Walton Avenue - Apt 4C - $3128 -",
     "2180 Walton Avenue - Apt. 10D - Apt 10B - $3128 -",
     "2183 Morris Ave - Apt 2B - $3445.35 -",
-    "2330 Cambreleng Ave - Apt 602 - $2505 -",
     "237 West 167 Street - Apt 3B - $3677.34 -",
     "237 West 167th Stret - Apt 4E - $3071.87 -",
     "25-01 Queens Plaza North - Apt 1019 - $3653 -",
@@ -129,7 +128,6 @@
     "2180 Walton Avenue - Apt 4C - $3128 -": "reczZeXLpx20TDBSu",
     "2180 Walton Avenue - Apt. 10D - Apt 10B - $3128 -": "reclm0Vov81VspkPi",
     "2183 Morris Ave - Apt 2B - $3445.35 -": "recFCqfgjQA8U7Kv6",
-    "2330 Cambreleng Ave - Apt 602 - $2505 -": "rec9ShqPgwR1nURUG",
     "237 West 167 Street - Apt 3B - $3677.34 -": "recOTjP3tzOSBVSlu",
     "237 West 167th Stret - Apt 4E - $3071.87 -": "recHEaZh5bE35y3F3",
     "25-01 Queens Plaza North - Apt 1019 - $3653 -": "recghf35pdYrvl3yG",
@@ -170,5 +168,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-20T20:01:43.487010+00:00"
+  "updated_at": "2026-10-20T20:29:59.272340+00:00"
 }
