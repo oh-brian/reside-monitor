@@ -63,6 +63,7 @@
     "28-08 38th Avenue - Apt 2F - $3423 -",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -",
+    "3073 Barker Ave Apartments - OM - 2 Bed - Apt 2 Bed - $3187 -",
     "3230 3rd Avenue - Apt 5F - $3558.22 -",
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI",
@@ -145,6 +146,7 @@
     "28-08 38th Avenue - Apt 2F - $3423 -": "recQY4FRCnuwpn0T0",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -": "recRYTO5BrDJZR3ts",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -": "recsAzcnRYpROMZ6s",
+    "3073 Barker Ave Apartments - OM - 2 Bed - Apt 2 Bed - $3187 -": "recWZlxdwSSdvPRDq",
     "3230 3rd Avenue - Apt 5F - $3558.22 -": "rech4H16rl8SbAwMD",
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -": "recFL0FQjAQbotYir",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI": "recxJ9qyCliLXanX8",
@@ -166,5 +168,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-20T14:36:12.256162+00:00"
+  "updated_at": "2026-10-20T15:02:59.578427+00:00"
 }
