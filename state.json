@@ -75,7 +75,6 @@
     "682 Chauncey Street - Apt 2L - $2434.14 -",
     "765 East 214 Street Apt. 703 - Apt 703 - $3019.9 -",
     "86 West 174 St - Apt 3B - $3950.05 -",
-    "873 E 228th Street Apt. 1A - Apt 1A - $3697.97 -",
     "875 4th Avenue - Apt 302 - $2157.63 - MI",
     "885 Rogers Avenue - Apt 407 - $2590.63 -",
     "9-24 Main Ave - Apt 305 - $2830.76 -",
@@ -158,7 +157,6 @@
     "682 Chauncey Street - Apt 2L - $2434.14 -": "recKJ15N4Rqr8whLR",
     "765 East 214 Street Apt. 703 - Apt 703 - $3019.9 -": "recDHccgkL8ARHZIb",
     "86 West 174 St - Apt 3B - $3950.05 -": "recHvWbrCDaGRfD6U",
-    "873 E 228th Street Apt. 1A - Apt 1A - $3697.97 -": "recmyVrGxLSYWlJKg",
     "875 4th Avenue - Apt 302 - $2157.63 - MI": "recFS1kpEb5mtwbfH",
     "885 Rogers Avenue - Apt 407 - $2590.63 -": "recqYTTsnxol1A5cK",
     "9-24 Main Ave - Apt 305 - $2830.76 -": "recHLRrPA6Ooi1k76",
@@ -168,5 +166,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-20T13:46:37.132343+00:00"
+  "updated_at": "2026-10-20T14:36:12.256162+00:00"
 }
