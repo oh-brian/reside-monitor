@@ -19,11 +19,11 @@
       "rent": "$2,954.00",
       "unit": "2D"
     },
-    "1464 watson ave bronx ny||315": {
+    "1464 watson ave bronx ny||216": {
       "address": "1464 Watson Ave, Bronx, NY",
-      "apply_url": "https://forms.clickup.com/14203750/f/dhev6-25373/XES0Z1U82XF3J9CV19",
+      "apply_url": "https://forms.clickup.com/14203750/f/dhev6-28573/EK9J5WMB8F9MFQ1VCF",
       "rent": "$2,998.00",
-      "unit": "315"
+      "unit": "216"
     },
     "1464 watson ave bronx ny||413": {
       "address": "1464 Watson Ave, Bronx, NY",
@@ -91,10 +91,10 @@
       "rent": "$2,835.00",
       "unit": "3D"
     },
-    "2835 sedgwick avenue||4g": {
-      "address": "2835 Sedgwick Avenue",
+    "2895 valentine avenue||4g": {
+      "address": "2895 Valentine Avenue",
       "apply_url": "https://forms.clickup.com/14203750/f/dhev6-28353/LQ8Y2AW4PGLON3UUZN",
-      "rent": "$2,954.00",
+      "rent": "$2,998.00",
       "unit": "4G"
     },
     "69 amboy street brooklyn ny||4b": {
@@ -200,5 +200,5 @@
       "unit": "7A"
     }
   },
-  "updated_at": "2026-10-15T19:44:05.474608+00:00"
+  "updated_at": "2026-10-21T17:14:08.683857+00:00"
 }
