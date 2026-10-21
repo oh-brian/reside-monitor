@@ -8,6 +8,7 @@
     "106 Mt. Hope Place - Apt 6C - $2727.02 -",
     "106 Mt. Hope Place - Apt 7E - $2748.79 -",
     "1169 Hoe Ave - Apt 3E - $3466.27 -",
+    "1245 Edward L Grant Highway - Apt 12E v2 - Apt 12E - $785.89 -",
     "1245 Edward L Grant Highway - Apt 8H - Apt 8H - $1294.65 -",
     "1281 Hoe Ave - Apt 7E - $1601.25 - Senior Preferece 60+",
     "1281 Hoe Ave - Apt 8A - $1601.25 - Senior Preferece 60+",
@@ -88,6 +89,7 @@
     "106 Mt. Hope Place - Apt 6C - $2727.02 -": "recrpwbaoI352905D",
     "106 Mt. Hope Place - Apt 7E - $2748.79 -": "recOvNPkuQWqfZJLD",
     "1169 Hoe Ave - Apt 3E - $3466.27 -": "rec95OFuDXpzJHDgT",
+    "1245 Edward L Grant Highway - Apt 12E v2 - Apt 12E - $785.89 -": "recIyxN6HsgA0Ih2U",
     "1245 Edward L Grant Highway - Apt 8H - Apt 8H - $1294.65 -": "recz43yyyA8GLodoW",
     "1281 Hoe Ave - Apt 7E - $1601.25 - Senior Preferece 60+": "recinxqScEeOCdCIx",
     "1281 Hoe Ave - Apt 8A - $1601.25 - Senior Preferece 60+": "recQGrQVZ6q3xqovP",
@@ -162,5 +164,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-21T18:07:15.878585+00:00"
+  "updated_at": "2026-10-21T18:59:04.577161+00:00"
 }
