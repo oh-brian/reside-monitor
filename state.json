@@ -82,7 +82,6 @@
     "94-15 Sutphin Boulevard - Apt 1807 - $4376 -",
     "94-15 Sutphin Boulevard - Apt 2205 - $3661 -",
     "947 Sheridan Ave - Apt 1D - $3128 -",
-    "95-08 147th Place - Apt 408 - $2098 -",
     "Douglass Street Apartments - Apt 8L - $3495 -"
   ],
   "project_record_ids": {
@@ -166,9 +165,8 @@
     "94-15 Sutphin Boulevard - Apt 1807 - $4376 -": "recNFT0wpy2zXnZ4X",
     "94-15 Sutphin Boulevard - Apt 2205 - $3661 -": "rec75e1opy14O1cIC",
     "947 Sheridan Ave - Apt 1D - $3128 -": "recsPrCPAboZUyWj7",
-    "95-08 147th Place - Apt 408 - $2098 -": "recSNBhG2M4MKzRsq",
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-21T16:49:25.033306+00:00"
+  "updated_at": "2026-10-21T16:50:01.299091+00:00"
 }
