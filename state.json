@@ -63,7 +63,6 @@
     "28-08 38th Avenue - Apt 2 BR - $4376 -",
     "28-08 38th Avenue - Apt 2F - $3423 -",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -",
-    "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI",
     "3914 15th Ave - Apt 1 Br - $3300 -",
     "3914 15th Ave - Apt 2 Br - $3400 -",
@@ -142,7 +141,6 @@
     "28-08 38th Avenue - Apt 2 BR - $4376 -": "recuZY0O8LXq72UvI",
     "28-08 38th Avenue - Apt 2F - $3423 -": "recQY4FRCnuwpn0T0",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -": "recsAzcnRYpROMZ6s",
-    "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -": "recFL0FQjAQbotYir",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI": "recxJ9qyCliLXanX8",
     "3914 15th Ave - Apt 1 Br - $3300 -": "recLSxJ19wRUZsX6n",
     "3914 15th Ave - Apt 2 Br - $3400 -": "recLH0otaWwP6r8gw",
@@ -160,5 +158,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-21T19:26:32.247214+00:00"
+  "updated_at": "2026-10-21T19:33:15.435049+00:00"
 }
