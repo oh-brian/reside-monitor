@@ -552,71 +552,6 @@
       "units_count": 4,
       "url": "https://mgnyconsulting.com/listing/lighthouse-point/"
     },
-    "https://mgnyconsulting.com/listing/lincoln-at-bankside": {
-      "address": null,
-      "income_range": "$119,795 - $273,520",
-      "tiers": {
-        "130%||2-bedroom||$3,350.00||3-5 people": {
-          "active": true,
-          "ami": "130%",
-          "annual_income": "$119,795 – $238,160",
-          "appearance_count": 4,
-          "first_seen": "2026-08-28T17:57:50.054524+00:00",
-          "household_size": "3-5 people",
-          "last_removed_at": "2026-10-05T17:26:45.351276+00:00",
-          "last_seen": "2026-10-05T17:28:40.963503+00:00",
-          "removal_count": 3,
-          "rent": "$3,350.00",
-          "unit_size": "2-Bedroom",
-          "units_available": 4
-        },
-        "130%||2-bedroom||$3,400.00||3-5 people": {
-          "active": false,
-          "ami": "130%",
-          "annual_income": "$121,509 – $238,160",
-          "appearance_count": 3,
-          "first_seen": "2026-08-20T04:04:39.814757+00:00",
-          "household_size": "3-5 people",
-          "last_removed_at": "2026-10-05T17:28:40.963503+00:00",
-          "last_seen": "2026-10-05T17:26:45.351276+00:00",
-          "removal_count": 3,
-          "rent": "$3,400.00",
-          "unit_size": "2-Bedroom",
-          "units_available": 1
-        },
-        "130%||2-bedroom||$3,493.50||3-5 people": {
-          "active": false,
-          "ami": "130%",
-          "annual_income": "$124,715 – $238,160",
-          "appearance_count": 1,
-          "first_seen": "2026-09-08T20:49:42.595675+00:00",
-          "household_size": "3-5 people",
-          "last_removed_at": "2026-09-08T20:52:38.447292+00:00",
-          "last_seen": "2026-09-08T20:49:42.595675+00:00",
-          "removal_count": 1,
-          "rent": "$3,493.50",
-          "unit_size": "2-Bedroom",
-          "units_available": 4
-        },
-        "130%||3-bedroom||$4,373.00||3-7 people": {
-          "active": true,
-          "ami": "130%",
-          "annual_income": "$156,035 – $273,520",
-          "appearance_count": 3,
-          "first_seen": "2026-08-20T04:04:39.814757+00:00",
-          "household_size": "3-7 people",
-          "last_removed_at": "2026-09-21T13:49:35.593817+00:00",
-          "last_seen": "2026-10-05T17:28:40.963503+00:00",
-          "removal_count": 2,
-          "rent": "$4,373.00",
-          "unit_size": "3-Bedroom",
-          "units_available": 1
-        }
-      },
-      "title": "Lincoln at Bankside",
-      "units_count": 5,
-      "url": "https://mgnyconsulting.com/listing/lincoln-at-bankside/"
-    },
     "https://mgnyconsulting.com/listing/lumen-lic-apartments": {
       "address": "23-15 44th Rd, Queens, NY 11101",
       "income_range": "$109,372 - $238,160",
@@ -627,5 +562,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-21T17:23:23.623017+00:00"
+  "updated_at": "2026-10-21T18:19:00.512072+00:00"
 }
