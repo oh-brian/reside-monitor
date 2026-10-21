@@ -351,6 +351,29 @@
       "units_count": 1,
       "url": "https://mgnyconsulting.com/listing/865-rogers-avenue/"
     },
+    "https://mgnyconsulting.com/listing/91-09-roosevelt-avenue": {
+      "address": null,
+      "income_range": "$93,778 - $238,160",
+      "tiers": {
+        "130%||2 bedroom||$2,507.17||2-5 people": {
+          "active": true,
+          "ami": "130%",
+          "annual_income": "$93.778 – $238,160",
+          "appearance_count": 1,
+          "first_seen": "2026-10-21T16:27:39.435755+00:00",
+          "household_size": "2-5 people",
+          "last_removed_at": null,
+          "last_seen": "2026-10-21T16:27:39.435755+00:00",
+          "removal_count": 0,
+          "rent": "$2,507.17",
+          "unit_size": "2 Bedroom",
+          "units_available": 1
+        }
+      },
+      "title": "91-09 Roosevelt Avenue",
+      "units_count": 1,
+      "url": "https://mgnyconsulting.com/listing/91-09-roosevelt-avenue/"
+    },
     "https://mgnyconsulting.com/listing/astoria-west": {
       "address": null,
       "income_range": "$88,445 - $198,510",
@@ -567,5 +590,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-20T20:47:37.891275+00:00"
+  "updated_at": "2026-10-21T16:27:39.435755+00:00"
 }
