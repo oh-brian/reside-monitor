@@ -79,6 +79,7 @@
     "875 4th Avenue - Apt 302 - $2157.63 - MI",
     "885 Rogers Avenue - Apt 407 - $2590.63 -",
     "9-24 Main Ave - Apt 305 - $2830.76 -",
+    "94-15 Sutphin Boulevard - Apt 1807 - $4376 -",
     "94-15 Sutphin Boulevard - Apt 2205 - $3661 -",
     "947 Sheridan Ave - Apt 1D - $3128 -",
     "95-08 147th Place - Apt 408 - $2098 -",
@@ -162,11 +163,12 @@
     "875 4th Avenue - Apt 302 - $2157.63 - MI": "recFS1kpEb5mtwbfH",
     "885 Rogers Avenue - Apt 407 - $2590.63 -": "recqYTTsnxol1A5cK",
     "9-24 Main Ave - Apt 305 - $2830.76 -": "recHLRrPA6Ooi1k76",
+    "94-15 Sutphin Boulevard - Apt 1807 - $4376 -": "recNFT0wpy2zXnZ4X",
     "94-15 Sutphin Boulevard - Apt 2205 - $3661 -": "rec75e1opy14O1cIC",
     "947 Sheridan Ave - Apt 1D - $3128 -": "recsPrCPAboZUyWj7",
     "95-08 147th Place - Apt 408 - $2098 -": "recSNBhG2M4MKzRsq",
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-20T20:29:59.272340+00:00"
+  "updated_at": "2026-10-21T15:19:00.218141+00:00"
 }
