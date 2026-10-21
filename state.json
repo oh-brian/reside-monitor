@@ -9,7 +9,6 @@
     "115 Stanwix St - Apt 218 - $2407.89 -",
     "1169 Hoe Ave - Apt 3E - $3466.27 -",
     "1245 Edward L Grant Highway - Apt 8H - Apt 8H - $1294.65 -",
-    "128 West 167 Street - Apt 7C - $3094.54 -",
     "1281 Hoe Ave - Apt 7E - $1601.25 - Senior Preferece 60+",
     "1281 Hoe Ave - Apt 8A - $1601.25 - Senior Preferece 60+",
     "130 Hope St - Apt 406 - $4069.25 -",
@@ -65,7 +64,6 @@
     "28-08 38th Avenue - Apt 2F - $3423 -",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -",
-    "3230 3rd Avenue - Apt 5F - $3558.22 -",
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI",
     "36-10 31st Street - Unit 3A - Apt 3A - $3308.31 -",
@@ -95,7 +93,6 @@
     "115 Stanwix St - Apt 218 - $2407.89 -": "recQR5uHfnLuqs3n7",
     "1169 Hoe Ave - Apt 3E - $3466.27 -": "rec95OFuDXpzJHDgT",
     "1245 Edward L Grant Highway - Apt 8H - Apt 8H - $1294.65 -": "recz43yyyA8GLodoW",
-    "128 West 167 Street - Apt 7C - $3094.54 -": "recys2LjG23wJioig",
     "1281 Hoe Ave - Apt 7E - $1601.25 - Senior Preferece 60+": "recinxqScEeOCdCIx",
     "1281 Hoe Ave - Apt 8A - $1601.25 - Senior Preferece 60+": "recQGrQVZ6q3xqovP",
     "130 Hope St - Apt 406 - $4069.25 -": "rectohTHRU24pNtMN",
@@ -151,7 +148,6 @@
     "28-08 38th Avenue - Apt 2F - $3423 -": "recQY4FRCnuwpn0T0",
     "3001 Grand Concourse - Unit 6D - Apt 6D - $3221.84 -": "recRYTO5BrDJZR3ts",
     "3031 Bronxwood Ave - Apt 2A - $2310.24 -": "recsAzcnRYpROMZ6s",
-    "3230 3rd Avenue - Apt 5F - $3558.22 -": "rech4H16rl8SbAwMD",
     "3317 Parkside PL Apt 3B - Apt 3B - $1857.63 -": "recFL0FQjAQbotYir",
     "346 Kent Ave - Apt 1001 - $3166.35 - HI-VI": "recxJ9qyCliLXanX8",
     "36-10 31st Street - Unit 3A - Apt 3A - $3308.31 -": "reczy8IaY87tZ4yWS",
@@ -174,5 +170,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-21T16:29:51.540307+00:00"
+  "updated_at": "2026-10-21T16:49:25.033306+00:00"
 }
