@@ -11,7 +11,7 @@
           "first_seen": "2026-10-12T16:21:46.916630+00:00",
           "household_size": "3-7",
           "last_removed_at": null,
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": null,
           "one_person_income": null,
           "removal_count": 0,
@@ -30,7 +30,7 @@
           "first_seen": "2026-09-25T14:51:16.456390+00:00",
           "household_size": "1-3",
           "last_removed_at": null,
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": true,
           "one_person_income": "$97,047.09 – $154,440.00",
           "removal_count": 0,
@@ -65,20 +65,33 @@
         }
       }
     },
-    "1412 college ave bronx ny": {
-      "address": "1412 College Ave, Bronx, NY",
+    "1412 college ave bronx": {
+      "address": "1412 College Ave, Bronx",
       "status": "on hold",
       "tiers": {
+        "affordable unit||$3,133.00||": {
+          "active": false,
+          "appearance_count": 1,
+          "first_seen": "2026-09-17T19:57:46.821431+00:00",
+          "household_size": null,
+          "last_removed_at": "2026-10-07T15:24:36.451452+00:00",
+          "last_seen": "2026-10-07T14:47:49.215434+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 1,
+          "rent": "$3,133.00",
+          "unit_size": "Affordable Unit"
+        },
         "studio||$2,808.84||1-2": {
           "active": true,
           "appearance_count": 1,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
+          "first_seen": "2026-10-07T15:24:36.451452+00:00",
           "household_size": "1-2",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
-          "one_person_eligible": true,
-          "one_person_income": "$103,571.66 – $154,440.00",
-          "removal_count": 3,
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 4,
           "rent": "$2,808.84",
           "unit_size": "Studio"
         }
@@ -94,7 +107,7 @@
           "first_seen": "2026-10-19T15:30:53.239347+00:00",
           "household_size": "2-5",
           "last_removed_at": null,
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
           "removal_count": 0,
@@ -103,39 +116,39 @@
         }
       }
     },
-    "1436 jesup ave bronx ny": {
-      "address": "1436 Jesup Ave, Bronx, NY",
+    "1436 jesup ave bronx": {
+      "address": "1436 Jesup Ave, Bronx",
       "status": "unknown",
       "tiers": {
-        "studio||$3,052.00||1-2": {
+        "affordable unit||$3,052.00||1": {
           "active": true,
-          "appearance_count": 4,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
-          "household_size": "1-2",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
-          "one_person_eligible": true,
-          "one_person_income": "$111,908.57 – $154,440.00",
-          "removal_count": 3,
+          "appearance_count": 5,
+          "first_seen": "2026-10-20T18:31:46.538161+00:00",
+          "household_size": "1",
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 4,
           "rent": "$3,052.00",
-          "unit_size": "Studio"
+          "unit_size": "Affordable Unit"
         }
       }
     },
-    "148 37 88th ave jamaica ny": {
-      "address": "148-37 88th Ave, Jamaica , NY",
+    "148 37 88th ave jamaica": {
+      "address": "148-37 88th Ave, Jamaica",
       "status": "unknown",
       "tiers": {
         "2 bedrooms||$2,082.80||2-5": {
           "active": true,
-          "appearance_count": 4,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
+          "appearance_count": 5,
+          "first_seen": "2026-10-19T18:19:54.730975+00:00",
           "household_size": "2-5",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
-          "removal_count": 3,
+          "removal_count": 4,
           "rent": "$2,082.80",
           "unit_size": "2 Bedrooms"
         }
@@ -151,7 +164,7 @@
           "first_seen": "2026-09-08T21:02:32.553698+00:00",
           "household_size": "2-5",
           "last_removed_at": null,
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
           "removal_count": 0,
@@ -170,9 +183,9 @@
           "first_seen": "2026-10-07T15:24:36.451452+00:00",
           "household_size": "1-2",
           "last_removed_at": null,
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
-          "one_person_eligible": true,
-          "one_person_income": "$115,385.14 – $154,440.00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
           "removal_count": 0,
           "rent": "$3,153.40",
           "unit_size": "Studio"
@@ -184,12 +197,12 @@
       "status": "unknown",
       "tiers": {
         "affordable unit||$3.00||1": {
-          "active": false,
-          "appearance_count": 4,
+          "active": true,
+          "appearance_count": 5,
           "first_seen": "2026-10-13T19:15:55.973705+00:00",
           "household_size": "1",
           "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
-          "last_seen": "2026-10-21T14:29:24.134667+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
           "removal_count": 4,
@@ -197,17 +210,36 @@
           "unit_size": "Affordable Unit"
         },
         "studio||$3,423.00||1-2": {
-          "active": true,
+          "active": false,
           "appearance_count": 4,
           "first_seen": "2026-10-21T14:11:38.336312+00:00",
           "household_size": "1-2",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
+          "last_removed_at": "2026-10-21T14:31:28.427367+00:00",
           "last_seen": "2026-10-21T14:30:56.174457+00:00",
           "one_person_eligible": true,
           "one_person_income": "$122,298.00 – $154,440.00",
-          "removal_count": 3,
+          "removal_count": 4,
           "rent": "$3,423.00",
           "unit_size": "studio"
+        }
+      }
+    },
+    "214 33 41st ave queens": {
+      "address": "214-33 41st. Ave, Queens",
+      "status": "unknown",
+      "tiers": {
+        "1 bedroom||$ | 3200||1-3": {
+          "active": true,
+          "appearance_count": 5,
+          "first_seen": "2026-10-07T17:46:07.775793+00:00",
+          "household_size": "1-3",
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 4,
+          "rent": "$ | 3200",
+          "unit_size": "1 Bedroom"
         }
       }
     },
@@ -216,25 +248,25 @@
       "status": "unknown",
       "tiers": {
         "2 bedrooms||$3,700.00||2-5": {
-          "active": true,
+          "active": false,
           "appearance_count": 4,
           "first_seen": "2026-10-21T14:11:38.336312+00:00",
           "household_size": "2-5",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
+          "last_removed_at": "2026-10-21T14:31:28.427367+00:00",
           "last_seen": "2026-10-21T14:30:56.174457+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
-          "removal_count": 3,
+          "removal_count": 4,
           "rent": "$3,700.00",
           "unit_size": "2 Bedrooms"
         },
         "affordable unit||$3.00||": {
-          "active": false,
-          "appearance_count": 4,
+          "active": true,
+          "appearance_count": 5,
           "first_seen": "2026-10-07T17:46:07.775793+00:00",
           "household_size": null,
           "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
-          "last_seen": "2026-10-21T14:29:24.134667+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
           "removal_count": 4,
@@ -248,25 +280,25 @@
       "status": "unknown",
       "tiers": {
         "1 bedroom||$2,773.15||1-3": {
-          "active": true,
+          "active": false,
           "appearance_count": 4,
           "first_seen": "2026-10-21T14:11:38.336312+00:00",
           "household_size": "1-3",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
+          "last_removed_at": "2026-10-21T14:31:28.427367+00:00",
           "last_seen": "2026-10-21T14:30:56.174457+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
-          "removal_count": 3,
+          "removal_count": 4,
           "rent": "$2,773.15",
           "unit_size": "1 Bedroom"
         },
         "affordable unit||$2,773.15||": {
-          "active": false,
-          "appearance_count": 4,
+          "active": true,
+          "appearance_count": 5,
           "first_seen": "2026-10-21T14:10:43.901668+00:00",
           "household_size": null,
           "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
-          "last_seen": "2026-10-21T14:29:24.134667+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
           "removal_count": 4,
@@ -275,22 +307,61 @@
         }
       }
     },
-    "228 east 135th st bronx ny": {
-      "address": "228 East 135th St, Bronx , NY",
+    "228 east 135th st bronx": {
+      "address": "228 East 135th St, Bronx",
       "status": "on hold",
       "tiers": {
-        "studio||$2,419.84||1-2": {
+        "1 bedroom||$2,426.93||1-3": {
+          "active": false,
+          "appearance_count": 1,
+          "first_seen": "2026-09-17T19:57:46.821431+00:00",
+          "household_size": "1-3",
+          "last_removed_at": "2026-09-22T15:31:16.176255+00:00",
+          "last_seen": "2026-09-17T19:57:46.821431+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 1,
+          "rent": "$2,426.93",
+          "unit_size": "1 Bedroom"
+        },
+        "affordable unit||$2,419.84||1": {
           "active": true,
           "appearance_count": 1,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
-          "household_size": "1-2",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
-          "one_person_eligible": true,
-          "one_person_income": "$88,725.94 – $154,440.00",
-          "removal_count": 3,
+          "first_seen": "2026-10-07T15:24:36.451452+00:00",
+          "household_size": "1",
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 4,
           "rent": "$2,419.84",
-          "unit_size": "Studio"
+          "unit_size": "Affordable Unit"
+        },
+        "affordable unit||$2,955.81||1": {
+          "active": false,
+          "appearance_count": 1,
+          "first_seen": "2026-09-22T15:31:16.176255+00:00",
+          "household_size": "1",
+          "last_removed_at": "2026-10-07T15:24:36.451452+00:00",
+          "last_seen": "2026-10-07T14:47:49.215434+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 1,
+          "rent": "$2,955.81",
+          "unit_size": "Affordable Unit"
+        },
+        "affordable unit||$2,961.55||": {
+          "active": false,
+          "appearance_count": 1,
+          "first_seen": "2026-08-21T04:26:17.273123+00:00",
+          "household_size": null,
+          "last_removed_at": "2026-08-25T21:09:42.593780+00:00",
+          "last_seen": "2026-08-25T21:08:46.198350+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 1,
+          "rent": "$2,961.55",
+          "unit_size": "Affordable Unit"
         }
       }
     },
@@ -312,12 +383,12 @@
           "unit_size": "Affordable Unit"
         },
         "affordable unit||$2,692.94||1": {
-          "active": false,
-          "appearance_count": 4,
+          "active": true,
+          "appearance_count": 5,
           "first_seen": "2026-10-20T21:26:17.551708+00:00",
           "household_size": "1",
           "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
-          "last_seen": "2026-10-21T14:29:24.134667+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
           "removal_count": 4,
@@ -325,53 +396,66 @@
           "unit_size": "Affordable Unit"
         },
         "studio||$2,692.94||1-2": {
-          "active": true,
+          "active": false,
           "appearance_count": 4,
           "first_seen": "2026-10-21T14:11:38.336312+00:00",
           "household_size": "1-2",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
+          "last_removed_at": "2026-10-21T14:31:28.427367+00:00",
           "last_seen": "2026-10-21T14:30:56.174457+00:00",
           "one_person_eligible": true,
           "one_person_income": "$148,500.00 – $154,440.00",
-          "removal_count": 3,
+          "removal_count": 4,
           "rent": "$2,692.94",
           "unit_size": "Studio"
         }
       }
     },
-    "260 knickerbocker ave brooklyn ny": {
-      "address": "260 Knickerbocker Ave, Brooklyn , NY",
+    "260 knickerbocker ave brooklyn": {
+      "address": "260 Knickerbocker Ave, Brooklyn",
       "status": "unknown",
       "tiers": {
-        "1 bedroom||$2,116.62||1-3": {
+        "affordable unit||$2,116.62||": {
           "active": true,
-          "appearance_count": 4,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
-          "household_size": "1-3",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
-          "one_person_eligible": true,
-          "one_person_income": "$82,169.83 – $154,440.00",
-          "removal_count": 3,
+          "appearance_count": 5,
+          "first_seen": "2026-10-19T19:07:33.632893+00:00",
+          "household_size": null,
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 4,
           "rent": "$2,116.62",
-          "unit_size": "1 Bedroom"
+          "unit_size": "Affordable Unit"
         }
       }
     },
-    "2680 creston ave bronx ny": {
-      "address": "2680 Creston Ave, Bronx, NY",
+    "2680 creston ave bronx": {
+      "address": "2680 Creston Ave, Bronx",
       "status": "unknown",
       "tiers": {
+        "1 bedroom||$3,234.00||1-3": {
+          "active": false,
+          "appearance_count": 1,
+          "first_seen": "2026-10-19T19:34:57.998026+00:00",
+          "household_size": "1-3",
+          "last_removed_at": "2026-10-19T21:11:03.270908+00:00",
+          "last_seen": "2026-10-19T20:25:23.364649+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 1,
+          "rent": "$3,234.00",
+          "unit_size": "1 Bedroom"
+        },
         "affordable unit||||1-3": {
           "active": true,
-          "appearance_count": 4,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
+          "appearance_count": 5,
+          "first_seen": "2026-10-19T21:11:03.270908+00:00",
           "household_size": "1-3",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
-          "one_person_eligible": true,
-          "one_person_income": "$92,790.17 – $154,440.00",
-          "removal_count": 3,
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 4,
           "rent": null,
           "unit_size": "Affordable Unit"
         }
@@ -387,7 +471,7 @@
           "first_seen": "2026-10-19T20:25:23.364649+00:00",
           "household_size": "2-5",
           "last_removed_at": null,
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
           "removal_count": 0,
@@ -409,39 +493,39 @@
         }
       }
     },
-    "34 union ave brooklyn ny": {
-      "address": "34 Union Ave, Brooklyn , NY",
+    "34 union ave brooklyn": {
+      "address": "34 Union Ave, Brooklyn",
       "status": "unknown",
       "tiers": {
-        "3 bedrooms||$3,234.16||3-7": {
+        "affordable unit||$3,234.16||": {
           "active": true,
-          "appearance_count": 4,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
-          "household_size": "3-7",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "appearance_count": 5,
+          "first_seen": "2026-10-19T16:11:26.001615+00:00",
+          "household_size": null,
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": null,
           "one_person_income": null,
-          "removal_count": 3,
+          "removal_count": 4,
           "rent": "$3,234.16",
-          "unit_size": "3 Bedrooms"
+          "unit_size": "Affordable Unit"
         }
       }
     },
-    "351 east 10th st new york ny": {
-      "address": "351 East 10th St, New York, NY",
+    "351 east 10th st new york": {
+      "address": "351 East 10th St, New York",
       "status": "on hold",
       "tiers": {
         "1 bedroom||$2,900.00||1-3": {
           "active": true,
           "appearance_count": 1,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
+          "first_seen": "2026-10-06T00:31:50.773985+00:00",
           "household_size": "1-3",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
-          "one_person_eligible": true,
-          "one_person_income": "$105,394.29 – $154,440.00",
-          "removal_count": 3,
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 4,
           "rent": "$2,900.00",
           "unit_size": "1 Bedroom"
         }
@@ -457,7 +541,7 @@
           "first_seen": "2026-10-12T16:21:46.916630+00:00",
           "household_size": "1-3",
           "last_removed_at": null,
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": true,
           "one_person_income": "$92,532.69 – $154,440.00",
           "removal_count": 0,
@@ -471,25 +555,25 @@
       "status": "unknown",
       "tiers": {
         "2 bedrooms||$2,332.44||2-5": {
-          "active": true,
+          "active": false,
           "appearance_count": 4,
           "first_seen": "2026-10-21T14:11:38.336312+00:00",
           "household_size": "2-5",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
+          "last_removed_at": "2026-10-21T14:31:28.427367+00:00",
           "last_seen": "2026-10-21T14:30:56.174457+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
-          "removal_count": 3,
+          "removal_count": 4,
           "rent": "$2,332.44",
           "unit_size": "2 Bedrooms"
         },
         "affordable unit||$2,332.44||": {
-          "active": false,
-          "appearance_count": 4,
+          "active": true,
+          "appearance_count": 5,
           "first_seen": "2026-10-19T17:34:06.217448+00:00",
           "household_size": null,
           "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
-          "last_seen": "2026-10-21T14:29:24.134667+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": null,
           "one_person_income": null,
           "removal_count": 4,
@@ -508,7 +592,7 @@
           "first_seen": "2026-08-21T04:26:17.273123+00:00",
           "household_size": null,
           "last_removed_at": null,
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": null,
           "one_person_income": null,
           "removal_count": 0,
@@ -517,64 +601,51 @@
         }
       }
     },
-    "975 nostrand ave brooklyn ny": {
-      "address": "975 Nostrand Ave, Brooklyn, NY",
+    "975 nostrand ave brooklyn": {
+      "address": "975 Nostrand Ave, Brooklyn",
       "status": "initial lease-up",
       "tiers": {
-        "1 bedroom||$3,050.00||1-7": {
+        "1 bedroom||$3.00||1": {
           "active": true,
-          "appearance_count": 4,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
-          "household_size": "1-7",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
-          "one_person_eligible": true,
-          "one_person_income": "$108,892.00 – $154,440.00",
-          "removal_count": 3,
-          "rent": "$3,050.00",
-          "unit_size": "1 Bedroom"
-        },
-        "2 bedrooms||$4,250.00||1-7": {
-          "active": true,
-          "appearance_count": 4,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
-          "household_size": "1-7",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "appearance_count": 5,
+          "first_seen": "2026-08-21T04:26:17.273123+00:00",
+          "household_size": "1",
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": false,
           "one_person_income": null,
-          "removal_count": 3,
-          "rent": "$4,250.00",
-          "unit_size": "2 Bedrooms"
+          "removal_count": 4,
+          "rent": "$3.00",
+          "unit_size": "1 Bedroom"
         },
-        "3 bedrooms||$4,900.00||1-7": {
+        "affordable unit||||1": {
           "active": true,
-          "appearance_count": 4,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
-          "household_size": "1-7",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
+          "appearance_count": 5,
+          "first_seen": "2026-08-21T04:26:17.273123+00:00",
+          "household_size": "1",
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
           "one_person_eligible": null,
           "one_person_income": null,
-          "removal_count": 3,
-          "rent": "$4,900.00",
-          "unit_size": "3 Bedrooms"
+          "removal_count": 4,
+          "rent": null,
+          "unit_size": "Affordable Unit"
         },
-        "studio||$2,900.00||1-7": {
+        "studio||$2,900.00||1": {
           "active": true,
-          "appearance_count": 4,
-          "first_seen": "2026-10-21T14:11:38.336312+00:00",
-          "household_size": "1-7",
-          "last_removed_at": "2026-10-21T14:29:24.134667+00:00",
-          "last_seen": "2026-10-21T14:30:56.174457+00:00",
-          "one_person_eligible": true,
-          "one_person_income": "$103,235.00 – $154,440.00",
-          "removal_count": 3,
+          "appearance_count": 5,
+          "first_seen": "2026-08-21T04:26:17.273123+00:00",
+          "household_size": "1",
+          "last_removed_at": "2026-10-21T14:30:56.174457+00:00",
+          "last_seen": "2026-10-21T14:31:28.427367+00:00",
+          "one_person_eligible": false,
+          "one_person_income": null,
+          "removal_count": 4,
           "rent": "$2,900.00",
           "unit_size": "Studio"
         }
       }
     }
   },
-  "updated_at": "2026-10-21T14:30:56.174457+00:00"
+  "updated_at": "2026-10-21T14:31:28.427367+00:00"
 }
