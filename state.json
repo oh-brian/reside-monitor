@@ -41,7 +41,6 @@
     "217 Eckford Street - 301 - Apt 301 - $3423 -",
     "2180 Walton Ave - Apt 7J - $3128 -",
     "2180 Walton Avenue - Apt 4C - $3128 -",
-    "2180 Walton Avenue - Apt. 10D - Apt 10B - $3128 -",
     "2183 Morris Ave - Apt 2B - $3445.35 -",
     "234 East 203 Apt 2A - Apt 2A - $2890 -",
     "237 West 167 Street - Apt 3B - $3677.34 -",
@@ -117,7 +116,6 @@
     "217 Eckford Street - 301 - Apt 301 - $3423 -": "recErh72Vv2QEAX0m",
     "2180 Walton Ave - Apt 7J - $3128 -": "rec4hTwcXPFNYFTeX",
     "2180 Walton Avenue - Apt 4C - $3128 -": "reczZeXLpx20TDBSu",
-    "2180 Walton Avenue - Apt. 10D - Apt 10B - $3128 -": "reclm0Vov81VspkPi",
     "2183 Morris Ave - Apt 2B - $3445.35 -": "recFCqfgjQA8U7Kv6",
     "234 East 203 Apt 2A - Apt 2A - $2890 -": "recJqR2Y6aThN0PRJ",
     "237 West 167 Street - Apt 3B - $3677.34 -": "recOTjP3tzOSBVSlu",
@@ -154,5 +152,5 @@
     "Douglass Street Apartments - Apt 8L - $3495 -": "recUrzXl68Pa7YphC"
   },
   "scraper_version": 3,
-  "updated_at": "2026-10-21T20:02:36.916161+00:00"
+  "updated_at": "2026-10-21T20:11:30.952559+00:00"
 }
