@@ -434,6 +434,14 @@
       "units_count": 1,
       "url": "https://mgnyconsulting.com/listing/91-09-roosevelt-avenue/"
     },
+    "https://mgnyconsulting.com/listing/arris-grand": {
+      "address": "445 Grand Avenue, Brooklyn, NY 11238",
+      "income_range": "$64,202 - $198,510",
+      "tiers": {},
+      "title": "Arris Grand",
+      "units_count": 1,
+      "url": "https://mgnyconsulting.com/listing/arris-grand/"
+    },
     "https://mgnyconsulting.com/listing/astoria-west": {
       "address": null,
       "income_range": "$88,445 - $198,510",
@@ -678,5 +686,5 @@
     }
   },
   "initialized": true,
-  "updated_at": "2026-10-21T18:28:11.006746+00:00"
+  "updated_at": "2026-10-21T22:18:56.214941+00:00"
 }
